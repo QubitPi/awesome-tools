@@ -1,9 +1,9 @@
-site_name: Awesome Python
-site_url: https://awesome-python.com
-site_description: A curated list of awesome Python frameworks, libraries and software
-site_author: Vinta Chen
-repo_name: vinta/awesome-python
-repo_url: https://github.com/vinta/awesome-python
+site_name: Awesome Tools
+site_url: https://qubitpi.github.io/awesome-tools
+site_description: A curated list of awesome tools for dev, design, and life.
+site_author: Jiaqi Liu
+repo_name: QubitPi/awesome-tools
+repo_url: https://github.com/QubitPi/awesome-tools
 theme:
   name: material
   palette:
@@ -12,15 +12,8 @@ theme:
 extra:
   social:
     - type: github
-      link: https://github.com/vinta
-    - type: twitter
-      link: https://twitter.com/vinta
-    - type: linkedin
-      link: https://www.linkedin.com/in/vinta
-google_analytics:
-  - UA-510626-7
-  - auto
+      link: https://github.com/QubitPi
 extra_css:
     - css/extra.css
 nav:
-  - "Life is short, you need Python.": "index.md"
+  - "If I can't fork it, I'll put it here": "index.md"
