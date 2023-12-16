@@ -31,6 +31,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [Request Map Generator](https://requestmap.webperf.tools/)
     * [Third Party Web](https://www.thirdpartyweb.today/)
 
+## Machine Learning
+
+* [MIT Deep Learning Book](https://www.deeplearningbook.org/)
+
 ## Miscellaneous
 
 * [Random String Generator](https://www.random.org/strings/)
