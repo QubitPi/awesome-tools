@@ -53,6 +53,17 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/QubitPi/awesome-tools/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
+# License
+
+The use and distribution terms for [awesome-tools](https://qubitpi.github.io/awesome-tools/) are covered by the
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+<div align="center">
+    <a href="https://opensource.org/licenses">
+        <img align="center" width="50%" alt="License Illustration" src="https://github.com/QubitPi/QubitPi/blob/master/img/apache-2.png?raw=true">
+    </a>
+</div>
+
 - - -
 
 If you have any question about this opinionated list, do not hesitate to contact me [![Gmail Badge](https://img.shields.io/badge/jack20220723@gmail.com-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com) or open an issue on GitHub.
