@@ -12,6 +12,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 
+## Branding
+
+* [HashiCorp](https://www.hashicorp.com/brand)
+* [TypeScript](https://qubitpi.github.io/TypeScript-Website/branding/)
+
 ## Design
 
 * SVG/LOGO
