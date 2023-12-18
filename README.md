@@ -17,6 +17,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [HashiCorp](https://www.hashicorp.com/brand)
 * [TypeScript](https://qubitpi.github.io/TypeScript-Website/branding/)
 
+## Machine Learning
+
+* [MIT Deep Learning Book](https://www.deeplearningbook.org/)
+
 ## Design
 
 * SVG/LOGO
@@ -36,9 +40,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [Request Map Generator](https://requestmap.webperf.tools/)
     * [Third Party Web](https://www.thirdpartyweb.today/)
 
-## Machine Learning
+## Backend Dev
 
-* [MIT Deep Learning Book](https://www.deeplearningbook.org/)
+* [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
 
 ## Miscellaneous
 
