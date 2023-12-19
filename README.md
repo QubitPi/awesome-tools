@@ -44,6 +44,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
 
+## Language
+
+* [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
+
 ## Miscellaneous
 
 * [Greasy Fork](https://greasyfork.org/en) - A nice browser per-website customization such as [de-流氓 script](https://greasyfork.org/en/scripts/393995-bilibili-干净链接/code) by Bilibili
