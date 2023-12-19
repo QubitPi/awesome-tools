@@ -53,6 +53,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Ancient Greek
 
+* [Ancient Greek Dictionary](https://www.lexilogos.com/english/greek_ancient_dictionary.htm)
+
 #### [Hansen and Quinn "Greek an intensive course"](https://pdfcoffee.com/4-hansen-hardy-quinn-gerald-m-greek-an-intensive-course-5-pdf-free.html)
 
 * [Hansen and Quinn Videos by PlayGreek](https://youtube.com/playlist?list=PLE6M-e2_CKhlxIqcxwSh4WfyuD7AA402X&si=WvEVaJnU6P4EAfAr)
