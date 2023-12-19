@@ -26,6 +26,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * SVG/LOGO
     * [Worldvectorlogo](https://worldvectorlogo.com/logo/google-lighthouse)
     * [Brandfetch](https://brandfetch.com/cypress.io)
+* [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
 
 ## Frontend Dev
 
