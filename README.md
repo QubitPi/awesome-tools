@@ -45,6 +45,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Backend Dev
 
+* [API Platform](https://api-platform.com/)
+* [API Generator](https://github.com/wrannaman/generators) - instantly generate REST and GraphQL APIs (openapi (OAS) 3.0.0)
 * [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
 
 ### Java
