@@ -73,6 +73,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Java Generics FAQs](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 * [Defensive Copy](http://www.javapractices.com/topic/TopicAction.do?Id=15)
 
+### GraphQL
+
+- [GraphiQL online](https://graphiql-online.com)
+- [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal
+
 ## Language
 
 * [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
