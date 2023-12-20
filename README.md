@@ -65,7 +65,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Backend Dev
 
-* [API Platform](https://api-platform.com/)
+* [API Platform](https://api-platform.com/) (also checkout this [interesting startup](https://les-tilleuls.coop/en))
 * [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
 
 ### Java
