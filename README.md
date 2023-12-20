@@ -43,6 +43,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Request Map Generator](https://requestmap.webperf.tools/)
 * [Third Party Web](https://www.thirdpartyweb.today/)
 
+### Mock Backend
+
+- [json-server](https://github.com/typicode/json-server) - Quick back-end for prototyping and mocking
+- [lowdb](https://github.com/typicode/lowdb) - Simple to use type-safe local **JSON database**
+- [json-graphql-server](https://github.com/marmelab/json-graphql-server)
+
 ## Backend Dev
 
 * [API Platform](https://api-platform.com/)
