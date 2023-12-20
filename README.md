@@ -47,6 +47,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
 
+### Java
+
+* [Java Generics FAQs](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+* [Defensive Copy](http://www.javapractices.com/topic/TopicAction.do?Id=15)
+
 ## Language
 
 * [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
