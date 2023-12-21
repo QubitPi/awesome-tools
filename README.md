@@ -97,6 +97,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Miscellaneous
 
+* [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/)
 * [Greasy Fork](https://greasyfork.org/en) - A nice browser per-website customization such as [de-流氓 script](https://greasyfork.org/en/scripts/393995-bilibili-干净链接/code) by Bilibili
 * [Random String Generator](https://www.random.org/strings/)
 * [Convert curl commands to Python, JavaScript and more](https://curlconverter.com/)
