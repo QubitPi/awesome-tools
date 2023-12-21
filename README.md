@@ -46,6 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [npm trends](https://npmtrends.com/)
 * [Defensive CSS](https://defensivecss.dev/)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
 
 ### UI Performance
 
