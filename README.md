@@ -97,7 +97,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Miscellaneous
 
-* [Escape / Unescape Tool](https://www.freeformatter.com/json-escape.html)
+* [Escape/Unescape Tool](https://www.freeformatter.com/json-escape.html)
 * [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
 * [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/)
 * [Greasy Fork](https://greasyfork.org/en) - A nice browser per-website customization such as [de-流氓 script](https://greasyfork.org/en/scripts/393995-bilibili-干净链接/code) by Bilibili
