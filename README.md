@@ -68,11 +68,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [API Platform](https://api-platform.com/) (also checkout this [interesting startup](https://les-tilleuls.coop/en))
 * [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
+* [MySQL Tutorial](https://www.mysqltutorial.org/)
 
 ### Java
 
 * [Java Generics FAQs](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 * [Defensive Copy](http://www.javapractices.com/topic/TopicAction.do?Id=15)
+* [Learning Java Jenkov](https://jenkov.com/) - If you got a asshole mentor such as [this](https://github.com/shadanan) in your comapny, abandon that asshole and trust Jenkov to be your best teacher. 
 
 ### GraphQL
 
