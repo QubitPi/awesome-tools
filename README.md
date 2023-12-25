@@ -74,7 +74,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Java Generics FAQs](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 * [Defensive Copy](http://www.javapractices.com/topic/TopicAction.do?Id=15)
-* [Learning Java Jenkov](https://jenkov.com/) - If you got a asshole mentor such as [this](https://github.com/shadanan) in your comapny, abandon that asshole and trust Jenkov to be your best teacher. 
+* [Learning Java via Jenkov](https://jenkov.com/) - If you got a asshole mentor such as [this](https://github.com/shadanan) in your comapny, abandon that asshole and trust Jenkov to be your best teacher. 
 
 ### GraphQL
 
