@@ -85,6 +85,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Language
 
+* [Lexilogos](https://www.lexilogos.com/english/index.htm) - A comprehensive set of resources for the study of the languages of the world
 * [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
 * [Textkit Greek and Latin Forums](https://www.textkit.com/greek-latin-forum/index.php)
 
