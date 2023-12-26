@@ -61,6 +61,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Mock Backend
 
+- [JSON to JSON Schema converter online](https://transform.tools/json-to-json-schema)
 - [json-server](https://github.com/typicode/json-server) - Quick back-end for prototyping and mocking
 - [lowdb](https://github.com/typicode/lowdb) - Simple to use type-safe local **JSON database**
 - [json-graphql-server](https://github.com/marmelab/json-graphql-server)
