@@ -87,20 +87,21 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Language
 
 * [Lexilogos](https://www.lexilogos.com/english/index.htm) - A comprehensive set of resources for the study of the languages of the world
-    * [Old Persian Keyboard Online • Cuneiforms](https://www.lexilogos.com/keyboard/persian_old.htm)
-* [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
 * [Textkit Greek and Latin Forums](https://www.textkit.com/greek-latin-forum/index.php)
 
 ### Ancient Greek
 
+* [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
 * [Ancient Greek Dictionary](https://www.lexilogos.com/english/greek_ancient_dictionary.htm)
+* [Hansen and Quinn "Greek an intensive course"](https://pdfcoffee.com/4-hansen-hardy-quinn-gerald-m-greek-an-intensive-course-5-pdf-free.html)
+    * [Hansen and Quinn Videos by PlayGreek](https://youtube.com/playlist?list=PLE6M-e2_CKhlxIqcxwSh4WfyuD7AA402X&si=WvEVaJnU6P4EAfAr)
+    * [A full set of translations for the exercises in all twenty chapters](https://atticgreek.wordpress.com/tag/hansen-and-quinn-intensive-greek/)
+    * [Partial answer keys for the textbook](https://leitourgeia.com/greek-resources/)
+    * [Complementary materials](https://youtube.com/playlist?list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&si=1XSs-T_naDc_QW-N)
+ 
+### Old Persian
 
-#### [Hansen and Quinn "Greek an intensive course"](https://pdfcoffee.com/4-hansen-hardy-quinn-gerald-m-greek-an-intensive-course-5-pdf-free.html)
-
-* [Hansen and Quinn Videos by PlayGreek](https://youtube.com/playlist?list=PLE6M-e2_CKhlxIqcxwSh4WfyuD7AA402X&si=WvEVaJnU6P4EAfAr)
-* [A full set of translations for the exercises in all twenty chapters](https://atticgreek.wordpress.com/tag/hansen-and-quinn-intensive-greek/)
-* [Partial answer keys for the textbook](https://leitourgeia.com/greek-resources/)
-* [Complementary materials](https://youtube.com/playlist?list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&si=1XSs-T_naDc_QW-N)
+* [Old Persian Keyboard Online • Cuneiforms](https://www.lexilogos.com/keyboard/persian_old.htm)
 
 ## Miscellaneous
 
