@@ -104,6 +104,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Miscellaneous
 
+* [Software architecture tools](https://softwarearchitecture.tools/)
 * [Escape/Unescape Tool](https://www.freeformatter.com/json-escape.html)
 * [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
 * [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/)
