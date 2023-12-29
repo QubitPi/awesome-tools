@@ -62,13 +62,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Mock Backend
 
-- [json-server](https://github.com/typicode/json-server) - Quick back-end for prototyping and mocking
-- [lowdb](https://github.com/typicode/lowdb) - Simple to use type-safe local **JSON database**
-- [json-graphql-server](https://github.com/marmelab/json-graphql-server)
+* [json-server](https://github.com/typicode/json-server) - Quick back-end for prototyping and mocking
+* [lowdb](https://github.com/typicode/lowdb) - Simple to use type-safe local **JSON database**
+* [json-graphql-server](https://github.com/marmelab/json-graphql-server)
 
 ## Backend Dev
 
-- [JSON to JSON Schema converter online](https://transform.tools/json-to-json-schema)
+* [JSON to JSON Schema converter online](https://transform.tools/json-to-json-schema)
 * [API Platform](https://api-platform.com/) (also checkout this [interesting startup](https://les-tilleuls.coop/en))
 * [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
 * [MySQL Tutorial](https://www.mysqltutorial.org/)
@@ -83,6 +83,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [GraphiQL online](https://graphiql-online.com)
 - [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal
+
+## DevOps
+
+* [Docker buildpack-deps](https://hub.docker.com/_/buildpack-deps/)
 
 ## Language
 
