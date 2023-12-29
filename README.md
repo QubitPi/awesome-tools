@@ -26,7 +26,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Aerial](https://github.com/JohnCoates/Aerial) - a very nice Mac screensaver (Yes, it works with recent Mac version that SaveHollywood gave up; so please buy them a coffee)
 * [TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop)
 * [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
-* [scrcpy](https://github.com/Genymobile/scrcpy) - Mirroring our Android screens onto our Mac screens and monitors
+* [Genymobile](https://github.com/Genymobile)
+    * [scrcpy](https://github.com/Genymobile/scrcpy) - Mirroring our Android screens onto our Mac screens and monitors
+    * [gnirehtet](https://github.com/Genymobile/gnirehtet) - Allows Android devices to use the internet connection of the computer they are plugged on
 
 ## Branding
 
