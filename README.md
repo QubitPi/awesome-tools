@@ -6,8 +6,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Tools](#awesome-tools)
 
+  - [Life](#life)
+  - [Branding](#branding)
   - [Design](#design)
   - [Frontend Dev](#frontend-dev)
+  - [Backend Dev](#backend-dev)
+  - [DevOps](#devops)
+  - [Language](#language)
   - [Miscellaneous](#miscellaneous)
 
 ---
