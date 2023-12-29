@@ -11,7 +11,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   - [Design](#design)
   - [Frontend Dev](#frontend-dev)
   - [Backend Dev](#backend-dev)
-  - [DevOps](#devops)
   - [Language](#language)
   - [Miscellaneous](#miscellaneous)
 
@@ -88,10 +87,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [GraphiQL online](https://graphiql-online.com)
 - [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal
-
-## DevOps
-
-* [Docker buildpack-deps](https://hub.docker.com/_/buildpack-deps/)
 
 ## Language
 
