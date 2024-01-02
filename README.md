@@ -76,6 +76,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Backend Dev
 
+* [get.docker.com](https://github.com/docker/docker-install) - Installing Docker on Linux with an automated script
 * [JSON to JSON Schema converter online](https://transform.tools/json-to-json-schema)
 * [API Platform](https://api-platform.com/) (also checkout this [interesting startup](https://les-tilleuls.coop/en))
 * [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
