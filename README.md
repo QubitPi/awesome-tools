@@ -95,6 +95,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Java Generics FAQs](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 * [Defensive Copy](http://www.javapractices.com/topic/TopicAction.do?Id=15)
 * [Learning Java via Jenkov](https://jenkov.com/)
+* [VisualVM](https://visualvm.github.io/)
+* [jConsole](https://openjdk.java.net/tools/svc/jconsole/)
+* [Java Decompiler](http://java-decompiler.github.io/)
 
 ### GraphQL
 
