@@ -127,6 +127,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Miscellaneous
 
+* [command-not-found.com](https://command-not-found.com/) - Dealing with "command not found" Error
 * [Convert curl command to programming language code](https://curlconverter.com/)
 * [smee.io](https://smee.io/) - Webhook payload delivery service
 * [Software architecture tools](https://softwarearchitecture.tools/)
