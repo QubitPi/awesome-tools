@@ -9,6 +9,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   - [Life](#life)
   - [Branding](#branding)
   - [Design](#design)
+  - [LaTeX](#latex)
   - [Frontend Dev](#frontend-dev)
   - [Backend Dev](#backend-dev)
   - [Language](#language)
@@ -51,6 +52,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [Worldvectorlogo](https://worldvectorlogo.com/logo/google-lighthouse)
     * [Brandfetch](https://brandfetch.com/cypress.io)
 * [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
+
+## LaTeX
+
+* [MacTeX](https://www.tug.org/mactex/) - LaTeX comes with various installation packges, some are minimized versions. The comprehensive package is MacTeX
+* [CTAN](https://www.ctan.org/) - The "Maven Central" for LaTeX
+* [texlive package manager](https://tug.org/texlive/doc/tlmgr.html) - Installing a LaTeX package. e.g. `sudo tlmgr update --self && sudo tlmgr install pgfornament`
+* Popular CTAN Packages
+    * [tcolorbox](https://www.ctan.org/pkg/tcolorbox)
 
 ## Frontend Dev
 
