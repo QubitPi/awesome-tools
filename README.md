@@ -89,7 +89,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [JSON to JSON Schema converter online](https://transform.tools/json-to-json-schema)
 * [API Platform](https://api-platform.com/) (also checkout this [interesting startup](https://les-tilleuls.coop/en))
 * [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
-* [MySQL Tutorial](https://www.mysqltutorial.org/)
 
 ### Java
 
@@ -101,6 +100,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [GraphiQL online](https://graphiql-online.com)
 - [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal
+
+### Database
+
+* [MySQL Tutorial](https://www.mysqltutorial.org/)
+* [Oracle Tutorial](https://www.oracletutorial.com/)
 
 ## Language
 
