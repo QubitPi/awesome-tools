@@ -98,6 +98,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [VisualVM](https://visualvm.github.io/)
 * [jConsole](https://openjdk.java.net/tools/svc/jconsole/)
 * [Java Decompiler](http://java-decompiler.github.io/)
+* Diagnostic Tools
+    * [The jps Utility](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr015.html)
+    * [The jstat Utility](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr017.html)
+    * [The jinfo Utility](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr013.html)
+    * [The jmap Utility](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr014.html)
+    * [The jhat Utility](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr012.html)
+    * [The jstack Utility](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr016.html)
 
 ### GraphQL
 
