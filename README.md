@@ -53,6 +53,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [Brandfetch](https://brandfetch.com/cypress.io)
 * [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
 
+## Digital Transformation
+
+* [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
 ## LaTeX
 
 * [MacTeX](https://www.tug.org/mactex/) - LaTeX comes with various installation packges, some are minimized versions. The comprehensive package is MacTeX
