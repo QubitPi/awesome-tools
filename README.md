@@ -152,6 +152,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Greasy Fork](https://greasyfork.org/en) - A nice browser per-website customization such as [de-流氓 script](https://greasyfork.org/en/scripts/393995-bilibili-干净链接/code) by Bilibili
 * [Random String Generator](https://www.random.org/strings/)
 * [Online Self-Signed SSL Certificate Generator Tool for Website](https://regery.com/en/security/ssl-tools/self-signed-certificate-generator)
+* [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
 # Contributing
 
