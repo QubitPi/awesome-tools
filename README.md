@@ -153,6 +153,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Random String Generator](https://www.random.org/strings/)
 * [Online Self-Signed SSL Certificate Generator Tool for Website](https://regery.com/en/security/ssl-tools/self-signed-certificate-generator)
 * [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+* [martinfowler.com](https://martinfowler.com/)
 
 # Contributing
 
