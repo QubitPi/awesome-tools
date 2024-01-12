@@ -120,6 +120,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [MySQL Tutorial](https://www.mysqltutorial.org/)
 * [Oracle Tutorial](https://www.oracletutorial.com/)
 
+## OpenStack
+
+* [Swift Docker](https://github.com/FNNDSC/docker-swift-onlyone)
+
 ## Language
 
 * [Lexilogos](https://www.lexilogos.com/english/index.htm) - A comprehensive set of resources for the study of the languages of the world
