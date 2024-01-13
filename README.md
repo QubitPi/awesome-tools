@@ -129,6 +129,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Lexilogos](https://www.lexilogos.com/english/index.htm) - A comprehensive set of resources for the study of the languages of the world
 * [Textkit Greek and Latin Forums](https://www.textkit.com/greek-latin-forum/index.php)
 
+### Korean
+
+* [延世大学韩国语教材全套(1-6册)](https://pan.baidu.com/s/1jIiUnEu#list/path=%2F)
+* [李思皎韩语](https://www.youtube.com/playlist?list=PLQH1PBEcJfSYrO93ZQ0TSbuumFa1ifdPS)
+
 ### Ancient Greek
 
 * [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
