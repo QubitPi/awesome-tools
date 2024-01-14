@@ -31,6 +31,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [scrcpy](https://github.com/Genymobile/scrcpy) - Mirroring our Android screens onto our Mac screens and monitors
     * [sndcpy](https://github.com/rom1v/sndcpy) - scrpy companion: forwarding audio from an Android 10 device to the computer
     * [gnirehtet](https://github.com/Genymobile/gnirehtet) - Allows Android devices to use the internet connection of the computer they are plugged on
+* [原神角色 AI 语音合成器](https://v2.genshinvoice.top/) - 择原神角色，输入文本，生成语音，可下载
 
 ## Branding
 
