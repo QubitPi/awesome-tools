@@ -153,6 +153,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Miscellaneous
 
+* [Online JSON formatter](https://jsonformatter.curiousconcept.com/#)
 * [command-not-found.com](https://command-not-found.com/) - Dealing with "command not found" Error
 * [Convert curl command to programming language code](https://curlconverter.com/)
 * [Convert JSON to YAML](https://www.json2yaml.com/)
