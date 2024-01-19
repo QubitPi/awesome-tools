@@ -157,7 +157,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [command-not-found.com](https://command-not-found.com/) - Dealing with "command not found" Error
 * [Convert curl command to programming language code](https://curlconverter.com/)
 * [Convert JSON to YAML](https://www.json2yaml.com/)
-* [smee.io](https://smee.io/) - Webhook payload delivery service
+* [smee.io](https://smee.io/) - Receives payloads then sends them to your locally running application
 * [Software architecture tools](https://softwarearchitecture.tools/)
 * [Escape/Unescape Tool](https://www.freeformatter.com/json-escape.html)
 * [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
