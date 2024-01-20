@@ -147,6 +147,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [Partial answer keys for the textbook](https://leitourgeia.com/greek-resources/)
     * [Complementary materials](https://youtube.com/playlist?list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&si=1XSs-T_naDc_QW-N)
  
+### Latin
+
+- [Familia Romana Essentials Online](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
+ 
 ### Old Persian
 
 * [Old Persian Keyboard Online • Cuneiforms](https://www.lexilogos.com/keyboard/persian_old.htm)
