@@ -151,7 +151,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 #### [Hans Ørberg's Lingua Latina per se illustrata series](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series)
 
-* [Familia Romana Essentials Online](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
+* [Lingua Latina: Pars I: Familia Romana audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
+* [Lingua Latina: Colloquia Personarum audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8IRC5kmZtHE5kpCm-I0jUf&si=c7tVQos7W7z6vVSw)
  
 ### Old Persian
 
