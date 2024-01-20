@@ -149,7 +149,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
  
 ### Latin
 
-- [Familia Romana Essentials Online](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
+* [Familia Romana Essentials Online](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
  
 ### Old Persian
 
