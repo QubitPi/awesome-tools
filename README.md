@@ -160,6 +160,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Miscellaneous
 
+* [git-crypt](https://github.com/AGWA/git-crypt)
 * [whatismyip.com](https://www.whatismyip.com/)
 * [Online JSON formatter](https://jsonformatter.curiousconcept.com/#)
 * [command-not-found.com](https://command-not-found.com/) - Dealing with "command not found" Error
