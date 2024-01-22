@@ -65,6 +65,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [texlive package manager](https://tug.org/texlive/doc/tlmgr.html) - Installing a LaTeX package. e.g. `sudo tlmgr update --self && sudo tlmgr install pgfornament`
 * Popular CTAN Packages
     * [tcolorbox](https://www.ctan.org/pkg/tcolorbox)
+    * [pgfornament](https://ctan.org/pkg/pgfornament)
 
 ## Frontend Dev
 
