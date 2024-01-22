@@ -49,6 +49,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Design
 
+* [Vectorian ornaments](https://www.vectorian.net/free-vintage-vectors.html)
 * SVG/LOGO
     * [Worldvectorlogo](https://worldvectorlogo.com/logo/google-lighthouse)
     * [Brandfetch](https://brandfetch.com/cypress.io)
