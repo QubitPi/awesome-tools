@@ -98,6 +98,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [API Platform](https://api-platform.com/) (also checkout this [interesting startup](https://les-tilleuls.coop/en))
 * [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
 
+### IntelliJ
+
+* [String Manipulation plugin](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - With a simple `Alt`/`Option` + `M` you get case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding, and more
+* [Intellij Ubuntu Light Theme](https://github.com/QubitPi/intellij-theme-ubuntu) - an Idea theme plugin whose color scheme follows the famous [Ubuntu Color Palette](https://design.ubuntu.com/brand/colour-palette)
+
 ### Java
 
 * [Java Generics FAQs](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
