@@ -158,6 +158,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ### Latin
 
 * [The Latin Library](https://www.thelatinlibrary.com/)
+* [PHI corpus](https://latin.packhum.org/)
 
 #### [Hans Ørberg's Lingua Latina per se illustrata series](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series)
 
