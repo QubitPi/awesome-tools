@@ -157,6 +157,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
  
 ### Latin
 
+* [The Latin Library](https://www.thelatinlibrary.com/)
+
 #### [Hans Ørberg's Lingua Latina per se illustrata series](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series)
 
 * [Lingua Latina: Pars I: Familia Romana audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
