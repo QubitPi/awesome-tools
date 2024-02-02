@@ -70,6 +70,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Frontend Dev
 
+* [uiverse.io](https://uiverse.io/) - Open-Source UI component templates
 * [Nodesource](https://deb.nodesource.com/) - Universal node & npm installer
 * [npm trends](https://npmtrends.com/)
 * [Defensive CSS](https://defensivecss.dev/)
