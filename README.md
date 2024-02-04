@@ -50,7 +50,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Knowledge Graph
 
-* [arrows.app](https://arrows.app/)
+* [arrows.app](https://github.com/QubitPi/arrows.app)
 
 ## Design
 
