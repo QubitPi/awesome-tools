@@ -52,6 +52,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [arrows.app](https://github.com/QubitPi/arrows.app)
 
+### Open Data
+
+* [OpenConcepts](https://github.com/QubitPi/OpenConcepts) - Entity [API](http://openconcepts.zjukg.cn/api_page)
+
 ## Design
 
 * [Vectorian ornaments](https://www.vectorian.net/free-vintage-vectors.html)
