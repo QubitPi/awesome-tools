@@ -48,6 +48,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Ollama](https://ollama.ai/)
 * [llama-2-7b-hf](https://huggingface.co/daryl149/llama-2-7b-hf) - Converted model weights for Llama-2-7B in Huggingface format
 
+## Knowledge Graph
+
+* [arrows.app](https://arrows.app/)
+
 ## Design
 
 * [Vectorian ornaments](https://www.vectorian.net/free-vintage-vectors.html)
