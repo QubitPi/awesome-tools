@@ -48,6 +48,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Ollama](https://ollama.ai/)
 * [llama-2-7b-hf](https://huggingface.co/daryl149/llama-2-7b-hf) - Converted model weights for Llama-2-7B in Huggingface format
 
+### Natural Language to SQL
+
+* [mlsql](https://github.com/paulfitz/mlsql) - paper implementations; quick play but non-production quality
+
 ## Knowledge Graph
 
 * [arrows.app](https://github.com/QubitPi/arrows.app)
