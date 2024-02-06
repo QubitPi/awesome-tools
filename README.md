@@ -51,6 +51,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ### Natural Language to SQL
 
 * [mlsql](https://github.com/paulfitz/mlsql) - paper implementations; quick play but non-production quality
+* [Text To SQL](https://toolske.com/text2sql/)
 
 ## Knowledge Graph
 
