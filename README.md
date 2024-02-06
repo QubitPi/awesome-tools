@@ -46,6 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [WikiSQL](https://github.com/QubitPi/WikiSQL) - NL to SQL
 * [Huatuo-26M](https://github.com/FreedomIntelligence/Huatuo-26M) - 中文医疗问答数据集
+* [Knowledge Graph entities](https://www.ownthink.com/docs/kg/)
 
 ### Llama 2
 
