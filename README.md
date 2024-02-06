@@ -42,6 +42,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [MIT Deep Learning Book](https://www.deeplearningbook.org/)
 
+### Open Training Data
+
+* [WikiSQL](https://github.com/QubitPi/WikiSQL) - NL to SQL
+
 ### Llama 2
 
 * [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
