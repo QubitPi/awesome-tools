@@ -48,6 +48,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Huatuo-26M](https://github.com/FreedomIntelligence/Huatuo-26M) - 中文医疗问答数据集
 * [Knowledge Graph entities](https://www.ownthink.com/docs/kg/)
 
+### Reinforcement Learning
+
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto - is the introductory book on RL. It covers very basics and build up from there. Does not cover deep RL.
+
 ### Llama 2
 
 * [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
