@@ -218,7 +218,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Machine Learning Must-Read Papers
 
-* [RNNs are Turing-Complete](https://binds.cs.umass.edu/papers/1995_Siegelmann_Science.pdf) - Extended reading for [studying RNN](https://karpathy.github.io/2015/05/21/rnn-effectiveness/), a prerequisit to studying Transformers
+* [RNNs are Turing-Complete](https://binds.cs.umass.edu/papers/1995_Siegelmann_Science.pdf) - Extended reading for [studying RNN](https://karpathy.github.io/2015/05/21/rnn-effectiveness/), a prerequisite to studying Transformers
 
 # Contributing
 
