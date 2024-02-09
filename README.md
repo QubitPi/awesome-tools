@@ -41,7 +41,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Machine Learning
 
 * [MIT Deep Learning Book](https://www.deeplearningbook.org/)
-* [Must-Read Papers](#must-read-papers)
+* [Must-Read Papers](#machine-learning-must-read-papers)
 
 ### Open Training Data
 
@@ -213,9 +213,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Online Self-Signed SSL Certificate Generator Tool for Website](https://regery.com/en/security/ssl-tools/self-signed-certificate-generator)
 * [martinfowler.com](https://martinfowler.com/)
 
-## Must-Read Papers
+## Machine Learning Must-Read Papers
 
-* [RNNs are Turing-Complete](https://binds.cs.umass.edu/papers/1995_Siegelmann_Science.pdf) - Understanding RNN as a prerequisit to studying Transformers
+* [RNNs are Turing-Complete](https://binds.cs.umass.edu/papers/1995_Siegelmann_Science.pdf) - Extended reading for [studying RNN](https://karpathy.github.io/2015/05/21/rnn-effectiveness/), a prerequisit to studying Transformers
 
 # Contributing
 
