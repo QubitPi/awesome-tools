@@ -41,6 +41,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Machine Learning
 
 * [MIT Deep Learning Book](https://www.deeplearningbook.org/)
+* [Must-Read Papers](#must-read-papers)
 
 ### Open Training Data
 
@@ -211,6 +212,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Random String Generator](https://www.random.org/strings/)
 * [Online Self-Signed SSL Certificate Generator Tool for Website](https://regery.com/en/security/ssl-tools/self-signed-certificate-generator)
 * [martinfowler.com](https://martinfowler.com/)
+
+## Must-Read Papers
+
+* [RNNs are Turing-Complete](https://binds.cs.umass.edu/papers/1995_Siegelmann_Science.pdf) - Understanding RNN as a prerequisit to studying Transformers
 
 # Contributing
 
