@@ -8,11 +8,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
   - [Life](#life)
   - [Branding](#branding)
+  - [Machine Learning](#machine-learning)
+  - [Knowledge Graph](#knowledge-graph)
   - [Design](#design)
   - [LaTeX](#latex)
   - [Frontend Dev](#frontend-dev)
   - [Backend Dev](#backend-dev)
+  - [DevOps](#devops)
   - [Language](#language)
+  - [Machine Learning Must-Read Papers](#machine-learning-must-read-papers)
   - [Miscellaneous](#miscellaneous)
 
 ---
@@ -79,10 +83,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [Worldvectorlogo](https://worldvectorlogo.com/logo/google-lighthouse)
     * [Brandfetch](https://brandfetch.com/cypress.io)
 * [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
-
-## Digital Transformation
-
-* [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## LaTeX
 
@@ -155,7 +155,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [MySQL Tutorial](https://www.mysqltutorial.org/)
 * [Oracle Tutorial](https://www.oracletutorial.com/)
 
-## OpenStack
+## DevOps
+
+### OpenStack
 
 * [Swift Docker](https://github.com/FNNDSC/docker-swift-onlyone)
 
@@ -197,6 +199,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Miscellaneous
 
+* [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 * [git-crypt](https://github.com/AGWA/git-crypt)
 * [whatismyip.com](https://www.whatismyip.com/)
 * [Online JSON formatter](https://jsonformatter.curiousconcept.com/#)
