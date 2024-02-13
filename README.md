@@ -44,6 +44,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Machine Learning
 
+* [Stanford CNN course](https://cs231n.github.io/) - CS231n Convolutional Neural Networks for Visual Recognition
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto - is the introductory book on RL. It covers very basics and build up from there. Does not cover deep RL.
+* [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 * [MIT Deep Learning Book](https://www.deeplearningbook.org/)
 * [Must-Read Papers](#machine-learning-must-read-papers)
 
@@ -52,10 +55,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [WikiSQL](https://github.com/QubitPi/WikiSQL) - NL to SQL
 * [Huatuo-26M](https://github.com/FreedomIntelligence/Huatuo-26M) - 中文医疗问答数据集
 * [Knowledge Graph entities](https://www.ownthink.com/docs/kg/)
-
-### Reinforcement Learning
-
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto - is the introductory book on RL. It covers very basics and build up from there. Does not cover deep RL.
 
 ### Llama 2
 
@@ -86,6 +85,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## LaTeX
 
+* [LaTeX math equation online editor](https://latexeditor.lagrida.com/)
 * [QuickLaTeX.com](https://quicklatex.com/) - Instant math equation syntax checker and sharing via image online
 * [MacTeX](https://www.tug.org/mactex/) - LaTeX comes with various installation packges, some are minimized versions. The comprehensive package is MacTeX
 * [CTAN](https://www.ctan.org/) - The "Maven Central" for LaTeX
