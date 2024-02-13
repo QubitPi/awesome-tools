@@ -86,6 +86,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## LaTeX
 
+* [QuickLaTeX.com](https://quicklatex.com/) - Instance Math equation syntax checker online
 * [MacTeX](https://www.tug.org/mactex/) - LaTeX comes with various installation packges, some are minimized versions. The comprehensive package is MacTeX
 * [CTAN](https://www.ctan.org/) - The "Maven Central" for LaTeX
 * [texlive package manager](https://tug.org/texlive/doc/tlmgr.html) - Installing a LaTeX package. e.g. `sudo tlmgr update --self && sudo tlmgr install pgfornament`
