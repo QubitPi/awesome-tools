@@ -78,6 +78,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ### Open Data
 
 * [OpenConcepts](https://github.com/QubitPi/OpenConcepts) - Entity [API](http://openconcepts.zjukg.cn/api_page)
+* [中文开放知识图谱](http://openkg.cn/)
 
 ## Design
 
