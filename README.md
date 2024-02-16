@@ -74,6 +74,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Knowledge Graph
 
 * [arrows.app](https://github.com/QubitPi/arrows.app)
+* [Neo4j Desktop Graph Apps Gallery](https://install.graphapp.io/) - Plugin apps for Neo4j Desktop that provide new capabilities, like Monitoring, Import, Analysis, Running Graph Algorithms, Visualization and much more
 
 ### Open Data
 
