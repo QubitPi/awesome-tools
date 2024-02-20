@@ -168,6 +168,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [MySQL Tutorial](https://www.mysqltutorial.org/)
 * [Oracle Tutorial](https://www.oracletutorial.com/)
 
+#### Database Management
+
+* [DBeaver](https://dbeaver.io/)
+* [pgAdmin](https://github.com/pgadmin-org/pgadmin4) (PostgreSQL)
+* [pgweb](https://github.com/sosedoff/pgweb) (PostgreSQL)
+
 ## DevOps
 
 ### OpenStack
