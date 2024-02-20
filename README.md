@@ -167,6 +167,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [MySQL Tutorial](https://www.mysqltutorial.org/)
 * [Oracle Tutorial](https://www.oracletutorial.com/)
+* [Postgres.app](https://postgresapp.com/) - The easiest way to get started with PostgreSQL on Mac
 
 #### Database Management
 
