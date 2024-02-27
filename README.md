@@ -52,6 +52,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [HashiCorp](https://www.hashicorp.com/brand)
 * [Elastic Brand Guide](https://brand.elastic.co/)
 * [TypeScript](https://qubitpi.github.io/TypeScript-Website/branding/)
+* [Golang](https://go.dev/blog/go-brand)
 
 ## Machine Learning
 
