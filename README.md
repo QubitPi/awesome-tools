@@ -179,6 +179,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## DevOps
 
+* [Go Playground](https://go.dev/play/)
+
 ### OpenStack
 
 * [Swift Docker](https://github.com/FNNDSC/docker-swift-onlyone)
