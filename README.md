@@ -38,7 +38,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [sndcpy](https://github.com/rom1v/sndcpy) - scrpy companion: forwarding audio from an Android 10 device to the computer
     * [gnirehtet](https://github.com/Genymobile/gnirehtet) - Allows Android devices to use the internet connection of the computer they are plugged on
 * [原神角色 AI 语音合成器](https://v2.genshinvoice.top/) - 输入文本，生成可下载原神角色语音
-* [Livius.org](https://www.livius.org/) - Resources on ancient history
 
 ## Philosophy
 
@@ -223,6 +222,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ### Old Persian
 
 * [Old Persian Keyboard Online • Cuneiforms](https://www.lexilogos.com/keyboard/persian_old.htm)
+* [Achaemenid Royal Inscriptions](https://www.livius.org/sources/content/achaemenid-royal-inscriptions/)
 
 ## Miscellaneous
 
