@@ -192,6 +192,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Lexilogos](https://www.lexilogos.com/english/index.htm) - A comprehensive set of resources for the study of the languages of the world
 * [Textkit Greek and Latin Forums](https://www.textkit.com/greek-latin-forum/index.php)
 * [Cambridge Ancient Greek and Latin language page](https://www.charlieslanguagepage.com/)
+* [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)
 
 ### Korean
 
