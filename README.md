@@ -203,6 +203,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Ancient Greek
 
+* [Alphabet pronunciation](http://atticgreek.org/pronunc/pronunc_guide.html)
+* [alpheios.net](https://alpheios.net/) - A robust reading tool in browser
 * [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
 * [Ancient Greek Dictionary](https://www.lexilogos.com/english/greek_ancient_dictionary.htm)
 * Hansen and Quinn _"Greek an intensive course"_
