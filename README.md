@@ -46,7 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Communication
 
-* [Hemingway App] - Make your written ideas easier to understand
+* [Hemingway App](https://hemingwayapp.com/) - Make your written ideas easier to understand
 
 ## Branding
 
