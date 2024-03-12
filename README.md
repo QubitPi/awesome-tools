@@ -140,6 +140,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [JSON to JSON Schema converter online](https://transform.tools/json-to-json-schema)
 * [API Platform](https://api-platform.com/) (also checkout this [interesting startup](https://les-tilleuls.coop/en))
 * [Generate SQL DB Schema Diagram](https://dbdiagram.io/)
+* [Cloudcraft](https://www.cloudcraft.co/) - Visualize cloud architecture like a Pro by creating smart AWS diagrams
 
 ### IntelliJ
 
