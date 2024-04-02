@@ -247,6 +247,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Random String Generator](https://www.random.org/strings/)
 * [Online Self-Signed SSL Certificate Generator Tool for Website](https://regery.com/en/security/ssl-tools/self-signed-certificate-generator)
 * [martinfowler.com](https://martinfowler.com/)
+* [Tree](https://tree.nathanfriend.io/): An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.
 
 ## Machine Learning Must-Read Papers
 
