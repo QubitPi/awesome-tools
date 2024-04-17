@@ -24,6 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Life
 
+* [Sozi](https://sozi.baierouge.fr/pages/10-about.html)
 * [Converting Tweet to image](https://10015.io/tools/tweet-to-image-converter)
 * [Handbrake](https://handbrake.fr/) - The best free open source video format converter.
 * [Project Gutenberg](https://www.gutenberg.org/) - Free books for read and data analytics
