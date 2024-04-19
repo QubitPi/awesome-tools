@@ -255,7 +255,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [RNNs are Turing-Complete](https://binds.cs.umass.edu/papers/1995_Siegelmann_Science.pdf) - Extended reading for [studying RNN](https://karpathy.github.io/2015/05/21/rnn-effectiveness/), a prerequisite to studying Transformers
 * [OpenAPI Whisper original paper](https://arxiv.org/abs/2212.04356)
-* [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+* [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) - RNN LSTM
+* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - Origin of attention mechanism
 
 # Contributing
 
