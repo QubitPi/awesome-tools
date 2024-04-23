@@ -61,7 +61,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto - is the introductory book on RL. It covers very basics and build up from there. Does not cover deep RL.
 * [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 * [MIT Deep Learning Book](https://www.deeplearningbook.org/)
-* [Must-Read Papers](#machine-learning-must-read-papers)
 
 ### Open Training Data
 
@@ -250,13 +249,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Online Self-Signed SSL Certificate Generator Tool for Website](https://regery.com/en/security/ssl-tools/self-signed-certificate-generator)
 * [martinfowler.com](https://martinfowler.com/)
 * [Tree](https://tree.nathanfriend.io/): An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.
-
-## Machine Learning Must-Read Papers
-
-* [RNNs are Turing-Complete](https://binds.cs.umass.edu/papers/1995_Siegelmann_Science.pdf) - Extended reading for [studying RNN](https://karpathy.github.io/2015/05/21/rnn-effectiveness/), a prerequisite to studying Transformers
-* [OpenAPI Whisper original paper](https://arxiv.org/abs/2212.04356)
-* [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) - RNN LSTM
-* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - Origin of attention mechanism
 
 # Contributing
 
