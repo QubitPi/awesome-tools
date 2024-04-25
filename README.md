@@ -231,6 +231,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Miscellaneous
 
+* [OpenID Connect explained](https://connect2id.com/learn/openid-connect)
 * [Refactoring.Guru](https://refactoring.guru/)
 * [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 * [git-crypt](https://github.com/AGWA/git-crypt)
