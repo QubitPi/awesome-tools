@@ -13,6 +13,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   - [Knowledge Graph](#knowledge-graph)
   - [Design](#design)
   - [LaTeX](#latex)
+  - [Software Architecture](#software-architecture)
   - [Frontend Dev](#frontend-dev)
   - [Backend Dev](#backend-dev)
   - [DevOps](#devops)
@@ -109,6 +110,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * Popular CTAN Packages
     * [tcolorbox](https://www.ctan.org/pkg/tcolorbox)
     * [pgfornament](https://ctan.org/pkg/pgfornament)
+
+## Software Architecture
+
+* [Software architecture tools](https://softwarearchitecture.tools/)
+* [UML Boundary Object v.s. Control Object](https://stackoverflow.com/a/17028825/14312712)
 
 ## Frontend Dev
 
@@ -241,7 +247,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Convert curl command to programming language code](https://curlconverter.com/)
 * [Convert JSON to YAML](https://www.json2yaml.com/)
 * [smee.io](https://smee.io/) - Receives payloads then sends them to your locally running application
-* [Software architecture tools](https://softwarearchitecture.tools/)
 * [Escape/Unescape Tool](https://www.freeformatter.com/json-escape.html)
 * [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
 * [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/)
