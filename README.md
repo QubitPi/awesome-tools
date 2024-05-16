@@ -56,6 +56,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Elastic Brand Guide](https://brand.elastic.co/)
 * [TypeScript](https://qubitpi.github.io/TypeScript-Website/branding/)
 * [Golang](https://go.dev/blog/go-brand)
+* [Docker](https://www.docker.com/company/newsroom/media-resources/)
+* [GraphQL](https://graphql.org/brand/)
 
 ## Machine Learning
 
