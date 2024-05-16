@@ -38,6 +38,8 @@ jobs:
           python sort.py
           cp README.md docs/index.md
           mkdocs build
+      - name: Load CNAME file
+        run: mv CNAME site
       - name: Deploy documentation to GitHub Pages
         if: github.ref == 'refs/heads/master'
         uses: peaceiris/actions-gh-pages@v3
