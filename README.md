@@ -247,6 +247,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Miscellaneous
 
+* [local-jwks-server](https://github.com/murar8/local-jwks-server) - [a tool for mocking JWT authentication with JWKS](https://www.reddit.com/r/webdev/comments/15crsg3/i_made_a_tool_for_mocking_jwt_authentication_with/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 * [OpenID Connect explained](https://connect2id.com/learn/openid-connect)
 * [Refactoring.Guru](https://refactoring.guru/)
 * [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
