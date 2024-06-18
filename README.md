@@ -18,7 +18,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   - [Backend Dev](#backend-dev)
   - [DevOps](#devops)
   - [Language](#language)
-  - [Machine Learning Must-Read Papers](#machine-learning-must-read-papers)
   - [Miscellaneous](#miscellaneous)
 
 ---
@@ -86,6 +85,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [mlsql](https://github.com/paulfitz/mlsql) - paper implementations; quick play but non-production quality
 * [Text To SQL](https://toolske.com/text2sql/)
+
+### Awesome Papers on Natural Language Processing (NLP)
+
+* [Attention is All you Need](./nlp-papers/ms.pdf)
 
 ## Knowledge Graph
 
