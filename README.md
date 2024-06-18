@@ -88,7 +88,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Awesome Papers on Natural Language Processing (NLP)
 
-* [Attention is All you Need](./nlp-papers/ms.pdf)
+* [Attention is All you Need](./nlp-papers/attention-is-all-you-need/ms.pdf)
 
 ## Knowledge Graph
 
