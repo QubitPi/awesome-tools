@@ -38,6 +38,7 @@ jobs:
           python sort.py
           cp README.md docs/index.md
           mkdocs build
+          mv nlp-papers site
       - name: Load CNAME file
         run: mv CNAME site
       - name: Deploy documentation to GitHub Pages
