@@ -21,5 +21,5 @@ clean:
 
 git-push:
 	git add .
-	git commit -m "Update paper study notes - Attention is All You Need"
+	git commit -S -m "Update paper study notes - Attention is All You Need"
 	git push origin master
