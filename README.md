@@ -117,6 +117,7 @@ are a few places we can look to get data:
 
 * [Vectorian ornaments](https://www.vectorian.net/free-vintage-vectors.html)
 * SVG/LOGO
+    * [SVG Repo](https://www.svgrepo.com/)
     * [Worldvectorlogo](https://worldvectorlogo.com/logo/google-lighthouse)
     * [Brandfetch](https://brandfetch.com/cypress.io)
 * [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
