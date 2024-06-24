@@ -70,9 +70,22 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Open Training Data
 
+When we are learning about Machine Learning it is best to actually experiment with real-world data, not just artificial
+datasets. Fortunately, there are thousands of open datasets to choose from, ranging across all sorts of domains. Here
+are a few places we can look to get data:
+
+* [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
+* [Wikipedia's list of Machine Learning datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 * [WikiSQL](https://github.com/QubitPi/WikiSQL) - NL to SQL
 * [Huatuo-26M](https://github.com/FreedomIntelligence/Huatuo-26M) - 中文医疗问答数据集
 * [Knowledge Graph entities](https://www.ownthink.com/docs/kg/)
+* [University of Oregon RouteViews Project](https://www.routeviews.org/routeviews/)
+* [Datasets subreddit](https://www.reddit.com/r/datasets/)
+* [Kaggle datasets](https://www.kaggle.com/datasets)
+* [Amazon's AWS datasets](https://registry.opendata.aws/)
+* [AWS Data Exchange](https://docs.aws.amazon.com/data-exchange/)
+* [Data Portals](https://dataportals.org/) - A Comprehensive List of [Open Data](https://opendefinition.org/) Portals from Around the World
+* [Nasdaq Data Link](https://data.nasdaq.com/institutional-investors)
 
 ### Llama 2
 
