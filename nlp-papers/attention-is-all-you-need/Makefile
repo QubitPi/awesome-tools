@@ -20,6 +20,6 @@ clean:
 	rm -rf *.aux *.log *.out
 
 git-push:
-	git add .
+	git add ms.pdf
 	git commit -S -m "Update paper study notes - Attention is All You Need"
 	git push origin master
