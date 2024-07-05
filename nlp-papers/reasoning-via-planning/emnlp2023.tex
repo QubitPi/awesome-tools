@@ -1,5 +1,3 @@
-\pdfoutput=1
-
 \documentclass[11pt]{article}
 \usepackage{EMNLP2023}
 \usepackage{times}
@@ -83,7 +81,7 @@ Daisy Zhe Wang\textsuperscript{$\diamondsuit$}\ Zhiting Hu\textsuperscript{$\clu
 \textsuperscript{$\spadesuit$}Mohamed bin Zayed University of Artificial Intelligence \\
 \texttt{\{s5hao, yig025, jjhong, zhw085, zhh019\}@ucsd.edu}  \\
 \texttt{\{ma.haodi, daisyw\}@ufl.edu}}
- 
+
 % \author{First Author \\
 %   Affiliation / Address line 1 \\
 %   Affiliation / Address line 2 \\
@@ -98,8 +96,8 @@ Daisy Zhe Wang\textsuperscript{$\diamondsuit$}\ Zhiting Hu\textsuperscript{$\clu
 \begin{document}
 \maketitle
 \begin{abstract}
-Large language models (LLMs) have shown remarkable reasoning capabilities, particularly with chain-of-thought (CoT) prompting. However, LLMs sometimes still struggle with problems that are easy for humans, such as generating action plans to achieve given goals in an environment, or performing complex math or logical reasoning. The deficiency stems from the key fact that LLMs lack an internal \emph{world model} to predict the world \emph{state} (e.g., environment status, intermediate variable values) and simulate long-term outcomes of actions. This prevents LLMs from performing deliberate planning akin to human brains, which involves exploring alternative reasoning paths, anticipating future states and rewards, and iteratively refining existing reasoning steps. To overcome the limitations, we propose a new LLM reasoning framework, {\bf \underline{R}easoning vi\underline{a} \underline{P}lanning (RAP)}. RAP repurposes the LLM as both a world model and a reasoning agent, and incorporates a principled planning algorithm based on Monte Carlo Tree Search for strategic exploration in the vast reasoning space. During reasoning, the LLM (as agent) incrementally builds a reasoning tree under the guidance of the LLM (as world model) and rewards, and efficiently obtains a high-reward reasoning path with a proper balance between exploration \emph{vs.} exploitation. 
-% As a general reasoning framework, 
+Large language models (LLMs) have shown remarkable reasoning capabilities, particularly with chain-of-thought (CoT) prompting. However, LLMs sometimes still struggle with problems that are easy for humans, such as generating action plans to achieve given goals in an environment, or performing complex math or logical reasoning. The deficiency stems from the key fact that LLMs lack an internal \emph{world model} to predict the world \emph{state} (e.g., environment status, intermediate variable values) and simulate long-term outcomes of actions. This prevents LLMs from performing deliberate planning akin to human brains, which involves exploring alternative reasoning paths, anticipating future states and rewards, and iteratively refining existing reasoning steps. To overcome the limitations, we propose a new LLM reasoning framework, {\bf \underline{R}easoning vi\underline{a} \underline{P}lanning (RAP)}. RAP repurposes the LLM as both a world model and a reasoning agent, and incorporates a principled planning algorithm based on Monte Carlo Tree Search for strategic exploration in the vast reasoning space. During reasoning, the LLM (as agent) incrementally builds a reasoning tree under the guidance of the LLM (as world model) and rewards, and efficiently obtains a high-reward reasoning path with a proper balance between exploration \emph{vs.} exploitation.
+% As a general reasoning framework,
 We apply RAP to various challenging reasoning problems including plan generation, math reasoning, and logical inference, and demonstrate its superiority over strong baselines. RAP with LLaMA-33B even surpasses CoT with GPT-4, achieving 33\% relative improvement in a plan generation setting.\footnote{The code is available at \url{https://github.com/Ber666/llm-reasoners}}
 \end{abstract}
 \input{sections/intro}
