@@ -8,11 +8,11 @@
 
 
 % During the process of solving complex reasoning problems, humans frequently engage in planning by simulating each step of the reasoning process using the world model in their minds.
-% They iterate through recognizing problematic steps and exploring alternative reasoning steps to enhance the overall reasoning path. 
+% They iterate through recognizing problematic steps and exploring alternative reasoning steps to enhance the overall reasoning path.
 % % \gy{unsure whether the description is accurate}
 % However, existing approaches that employ LLMs to tackle reasoning problems solely rely on autoregressive generation of the reasoning trace, preventing them from recovering from incorrect early steps and exploring alternative paths.
 
-% In order to overcome the limitations arising from this discrepancy, 
+% In order to overcome the limitations arising from this discrepancy,
 
 % \subsection{Planning with Monte Carlo Tree Search} \label{sec:mcts}
 
@@ -22,7 +22,7 @@
 
 
 
-In this section, we present the Reasoning via Planning (RAP) framework that enables LLMs to strategically plan a coherent reasoning trace for solving a wide range of reasoning tasks. We first build the world model by repurposing the LLM with prompting (Section~\ref{sec:formulation}). The world model serves as the foundation for deliberate planning, by allowing the LLM to plan ahead and seek out the expected outcomes in the future. We then introduce the rewards for assessing each state during reasoning in Section~\ref{sec:reward}. Guided by the world model and rewards, the planning with Monte Carlo Tree Search (MCTS) efficiently explores the vast reasoning space and finds optimal reasoning traces (Section~\ref{sec:mcts}). Finally, when multiple promising reasoning traces are acquired during planning, we further introduce an aggregation method in Section~\ref{sec:aggr} that yields an ensembled result and further boosts the reasoning performance.
+In this section, we present the Reasoning via Planning (RAP) framework that enables LLMs to strategically plan a coherent reasoning trace for solving a wide range of reasoning tasks. We first \roundinlinebox[green]{build the world model} by repurposing the LLM with prompting (Section~\ref{sec:formulation}). The world model serves as the foundation for deliberate planning, by allowing the LLM to plan ahead and seek out the expected outcomes in the future. We then introduce the \roundinlinebox[green]{rewards} for assessing each state during reasoning in Section~\ref{sec:reward}. Guided by the world model and rewards, the planning with \roundinlinebox[green]{Monte Carlo Tree Search} (MCTS) efficiently explores the vast reasoning space and finds optimal reasoning traces (Section~\ref{sec:mcts}). Finally, when multiple promising reasoning traces are acquired during planning, we further introduce an aggregation method in Section~\ref{sec:aggr} that yields an ensembled result and further boosts the reasoning performance.
 
 % which simulates each step of the reasoning trace, as described in Section \ref{sec:formulation}.
 % This world model not only provides the outcome of the reasoning step but also evaluates its effectiveness, as described in Section \ref{sec:formulation}.
@@ -40,7 +40,7 @@ In this section, we present the Reasoning via Planning (RAP) framework that enab
 % We finally introduce RAP-aggregate in Section \ref{sec:aggr}, which can aggregate a best answer across multiple reasoning traces we find during the planning.
 
 %\vspace{-5pt}
-\subsection{Language Model as World Model} 
+\subsection{Language Model as World Model}
 \label{sec:formulation}
 %\vspace{-5pt}
 
@@ -54,13 +54,13 @@ In this section, we present the Reasoning via Planning (RAP) framework that enab
 %     \label{fig:formulation}
 % \end{figure}
 
-In general, a world model predicts the next \emph{state} of the reasoning after applying an \emph{action} to the current state~\cite{ha2018world, matsuo2022deep}. \ours enables us to instantiate the general concepts of state and action in different ways depending on the specific reasoning problems at hand (Figure \ref{fig:tree_examples}). For example, in \blocksworld, it is natural to define a state as the configuration of blocks (described in natural language), and an action to be a behavior of moving a block (e.g., \texttt{``pickup the orange block''}). In a math reasoning problem, we use the state to represent the values of intermediate variables, and set an action to be a subquestion that drives the reasoning to derive new values. In logical reasoning, a state is a fact we are focusing on, and an action is to choose a rule for the next deduction.
+In general, a world model predicts the next \emph{state} of the reasoning after \roundinlinebox[green]{applying an \emph{action} to the current state}~\cite{ha2018world, matsuo2022deep}. \ours enables us to instantiate the general concepts of state and action in different ways depending on the specific reasoning problems at hand (Figure \ref{fig:tree_examples}). For example, in \blocksworld, it is natural to define a state as the configuration of blocks (described in natural language), and an action to be a behavior of moving a block (e.g., ``pickup the orange block''). In a math reasoning problem, we use the state to represent the values of intermediate variables, and set an action to be a subquestion that drives the reasoning to derive new values. In logical reasoning, a state is a fact we are focusing on, and an action is to choose a rule for the next deduction.
 
 
-With the definition of state and action, the reasoning process can thus be described as a Markov decision process (MDP): given the current state $s_{t, t=0, 1, \dots, T}$, e.g., the initial state $s_0$, the LLM (as a reasoning agent) generates an action space by sampling from its generative distribution $a_t \sim p(a | s_t, c)$, where $c$ is a proper prompt (e.g., in-context demonstrations). Once an action is chosen, the world model then predicts the next state $s_{t+1}$ of the reasoning. Specifically, we repurpose the \emph{same} LLM to obtain a state transition distribution $p(s_{t+1} | s_t, a_t, c')$, where $c'$ is another prompt to guide the LLM to generate a state. For instance, in \blocksworld, the LLM (as the world model) generates text $s_{t+1}$ to describe the new configuration of blocks, given previous state $s_{t}$ and the action $a_t$. 
+With the definition of state and action, the reasoning process can thus be described as a \roundinlinebox[green]{Markov decision process (MDP):} given the current state $s_{t, t=0, 1, \dots, T}$, e.g., the initial state $s_0$, the LLM (as a reasoning agent) generates an action space by sampling from its generative distribution $a_t \sim p(a | s_t, c)$, where $c$ is a proper prompt (e.g., in-context demonstrations). Once an action is chosen, the world model then predicts the next state $s_{t+1}$ of the reasoning. Specifically, we repurpose the \emph{same} LLM to obtain a state transition distribution $p(s_{t+1} | s_t, a_t, c')$, where $c'$ is another prompt to guide the LLM to generate a state. For instance, in \blocksworld, the LLM (as the world model) generates text $s_{t+1}$ to describe the new configuration of blocks, given previous state $s_{t}$ and the action $a_t$.
 
-Continuing the process results in a reasoning trace, which consists of a sequence of interleaved states and actions $(s_0, a_0, s_1, \dots, a_{T-1}, s_T)$. This differs from the previous reasoning methods, such as Chain-of-Thought~\cite{wei2022chain}, where the intermediate reasoning steps consist of only a sequence of actions, e.g., (\texttt{$a_0=$ ``pickup red block'', $a_1=$ ``stack on yellow block'',} \dots) (see comparisons in Figure~\ref{fig:1}). Augmenting the reasoning with the (predicted) world states helps the LLM with a more grounded and coherent inference. Note that the full reasoning trace is simulated by the LLM itself (as a reasoning agent with an \emph{internal} world model) without interacting with the \emph{external} real environment. This resembles humans contemplating a possible plan in their minds. The capability of simulating future states, by introducing the world model, allows us to incorporate principled planning algorithms to efficiently explore the vast reasoning space as described in Section~\ref{sec:mcts}.
- 
+Continuing the process results in a reasoning trace, which consists of a sequence of interleaved states and actions $(s_0, a_0, s_1, \dots, a_{T-1}, s_T)$. This differs from the previous reasoning methods, such as Chain-of-Thought~\cite{wei2022chain}, where the intermediate reasoning steps consist of only a sequence of actions, e.g., (\texttt{$a_0=$ ``pickup red block'', $a_1=$ ``stack on yellow block'',} \dots) (see comparisons in Figure~\ref{fig:1}). Augmenting the reasoning with the (predicted) world states helps the LLM with a more grounded and coherent inference. Note that the full reasoning trace is simulated by the LLM itself (as a reasoning agent with an \emph{internal} world model) without interacting with the \emph{external} real environment. \highlight[green]{This resembles humans contemplating a possible plan in their minds. The capability of simulating future states, by introducing the world model, allows us to incorporate principled planning algorithms to efficiently explore the vast reasoning space} as described in Section~\ref{sec:mcts}.
+
 
 % To introduce the world model for simulating reasoning traces, we begin by defining the concepts of \textit{states} and \textit{actions} within a reasoning task.
 % % We illustrate this with an example taken from the PrOntoQA dataset \cite{saparov2022language}, as shown in Figure \ref{fig:formulation}.
@@ -98,7 +98,7 @@ Continuing the process results in a reasoning trace, which consists of a sequenc
 % We illustrate the detailed MDP formulations of Blocksworld, ProntoQA, and GSM8k in \gy{table/figure}. \gy{we want to include action proposing in world model, need modify}
 
 % We assume the MDP has finite horizon, which means any transition sequence of nonzero probability (i.e. $ \prod_{i \geq 0} \mathcal{P}\left(x_i, a_{i, i+1}, x_{i+1}\right)>0$) must have finite length.
-% Since their concrete interpretations of the MDP depend on specific problems, we leave them to later sections \hsb{ref}. Here we take a case from blockworld as a running example: \hsb{expand} 
+% Since their concrete interpretations of the MDP depend on specific problems, we leave them to later sections \hsb{ref}. Here we take a case from blockworld as a running example: \hsb{expand}
 
 % In our method, the transition probability function and the reward function are parameterized by the world model, noted as $\mathcal{P_\phi}$ and $\mathcal{R_\phi}$. \hsb{example}
 
@@ -109,7 +109,7 @@ Continuing the process results in a reasoning trace, which consists of a sequenc
 \subsection{Reward Design} \label{sec:reward}
 %\vspace{-5pt}
 
-During reasoning, we want to assess the feasibility and desirability of each reasoning step, and guide the reasoning based on the assessment (Section~\ref{sec:mcts}). 
+During reasoning, we want to assess the feasibility and desirability of each reasoning step, and guide the reasoning based on the assessment (Section~\ref{sec:mcts}).
 The assessment of each reasoning step (i.e., applying an action $a_t$ to the state $s_{t}$) is performed by a \emph{reward} function $r_t = r(s_t, a_t) \in \mathbb R$. Similar to the state and action, the reward function can be specified in different ways to accommodate any knowledge or preferences about the reasoning problem of interest. Here we introduce several common rewards applicable to different tasks and shown to be effective in our experiments.
 
 \noindent \textbf{Likelihood of the action.}
@@ -155,9 +155,9 @@ RAP also allows us to flexibly plug in other task-specific heuristics into the r
 \end{figure*}
 
 
-Once equipped with the world model (Section~\ref{sec:formulation}) and rewards (Section~\ref{sec:reward}), LLMs can reason with any planning algorithms. We adopt Monte Carlo Tree Search (MCTS)~\cite{kocsis2006bandit, coulom2007efficient}, a powerful planning algorithm that strategically explores the space of reasoning trees and strikes a proper balance between exploration and exploitation to find high-reward reasoning traces efficiently. 
+Once equipped with the world model (Section~\ref{sec:formulation}) and rewards (Section~\ref{sec:reward}), LLMs can reason with any planning algorithms. We adopt Monte Carlo Tree Search (MCTS)~\cite{kocsis2006bandit, coulom2007efficient}, a powerful planning algorithm that strategically explores the space of reasoning trees and strikes a proper balance between exploration and exploitation to find high-reward reasoning traces efficiently.
 
-Specifically, MCTS builds a reasoning tree iteratively, where each node represents a state, and each edge represents an action and the transition from the current state to the next state after applying the action (Figure~\ref{fig:1}). 
+Specifically, MCTS builds a reasoning tree iteratively, where each node represents a state, and each edge represents an action and the transition from the current state to the next state after applying the action (Figure~\ref{fig:1}).
 To guide the LLM agent to expand and explore the most promising nodes of the tree, the algorithm maintains a state-action value function $Q : \mathcal S \times \mathcal A \mapsto \mathbb R$, where $Q(s, a)$ estimates the \emph{expected future reward} of taking action $a$ in state $s$. Figure \ref{fig:mcts_phases} illustrates four operations in each iteration to expand the tree and update $Q$ values. The process continues until a specified computational budget (e.g., the number of iterations) is reached, and the resulting traces are acquired from the tree. More details and the pseudo-code of the planning algorithm are given in Appendix~\ref{sec:mcts_app} and Algorithm \ref{alg:mcts}.
 
 
@@ -192,7 +192,7 @@ The first phase selects a portion of the existing tree that is most promising fo
     a^\ast = \arg\max_{a \in A(s)} \left[ Q(s, a) + w \sqrt{\frac{\ln N(s)}{N(c(s, a))}} \right],
 \end{align}
 }
-\noindent where $N(s)$ is the number of times node $s$ has been visited in previous iterations, and $c(s, a)$ is the child node of applying $a$ in state $s$. The less a child node was visited before (i.e., the more uncertain about this child node), the higher the second term in the equation. The weight $w$ controls the balance between exploration and exploitation. 
+\noindent where $N(s)$ is the number of times node $s$ has been visited in previous iterations, and $c(s, a)$ is the child node of applying $a$ in state $s$. The less a child node was visited before (i.e., the more uncertain about this child node), the higher the second term in the equation. The weight $w$ controls the balance between exploration and exploitation.
 % \hzt{Anything to say about how we chose $w$?}
 
 % Each iteration starts the initial state.
@@ -205,7 +205,7 @@ The first phase selects a portion of the existing tree that is most promising fo
 % where $N(s)$ is the number of times node $s$ has been visited, and $c(s, a)$ is the children of following $a$ at node $s$.
 % The hyper-parameter $w$ serves as a balancing factor between exploration and exploitation.
 
-\noindent \textbf{Expansion.} 
+\noindent \textbf{Expansion.}
 This phase expands the tree by adding new child nodes to the leaf node selected above. Given the state of the leaf node, we use the LLM (as agent) to sample $d$ possible actions (e.g., subquestions in math reasoning), and then use the LLM (as world model) to predict the respective next state, resulting in $d$ child nodes. Note that if the leaf node selected above is a terminal node (the end of a reasoning chain) already, we will skip expansion and jump to back-propagation.
 % Note that if the leaf node selected above is a terminal (target) state already, we will skip expansion/simulation and jump to back-propagation.
 
@@ -221,8 +221,8 @@ This phase expands the tree by adding new child nodes to the leaf node selected 
 
 \noindent \textbf{Simulation.}
 To estimate the expected future rewards ($Q$ values), this phase simulates the future situations of the current node using the world model.
-% Specifically, 
-%from the above $d$ new nodes, we pick the node of largest local reward (Section~\ref{sec:reward}) and perform simulation starting from it. In particular, similar to above, 
+% Specifically,
+%from the above $d$ new nodes, we pick the node of largest local reward (Section~\ref{sec:reward}) and perform simulation starting from it. In particular, similar to above,
 Starting from the current node as above, at each node $s$, we create an action following a \emph{roll-out policy} and use the world model to predict the next state. The roll-out process continues until a terminal state is reached. There could be many ways to define the roll-out policy (e.g., by adding different randomness). In our experiments, for simplicity and reduced noises, we follow a similar process as in the expansion above, i.e., generating $d$ candidate actions and picking one of the largest local reward $a'= \max_{a'} r(s, a)$. In practice, for efficiency, we discard the computationally costly components in $r$ (e.g., the reward from the confidence of state requires sampling the answer multiple times), and use the resulting lightweight reward function for selecting actions during simulation.
 
 % In traditional MCTS algorithms, after expanding the children of one node, it will follow a random simulation till a terminating state, i.e., a leaf node.
@@ -231,8 +231,8 @@ Starting from the current node as above, at each node $s$, we create an action f
 
 % After expansion, we perform a complete simulation starting from the current node until the reasoning trace is finished following a \textit{roll-out policy}. To guide our exploration towards better reasoning traces, we use a fast reward function $r'(s, a)$, discarding time-consuming parts of the standard reward function $r(s, a)$, to get an estimation of the quality of action $a$. Our roll-out policy selects the action with maximum estimated reward $a_t = \max_{a_t} r'(s, a_t)$.
 
-\noindent \textbf{Back-propagation.} 
-Once we reach a terminal state in the above phases, we obtain a reasoning path from the root node to the terminal node. We now back-propagate the rewards on the path to update the $Q$ value of each state-action pair along the path. Specifically, we update $Q(s, a)$ by aggregating the rewards in all future steps of node $s$. 
+\noindent \textbf{Back-propagation.}
+Once we reach a terminal state in the above phases, we obtain a reasoning path from the root node to the terminal node. We now back-propagate the rewards on the path to update the $Q$ value of each state-action pair along the path. Specifically, we update $Q(s, a)$ by aggregating the rewards in all future steps of node $s$.
 % We may adopt the aggregation method depending on the nature of tasks and reward design, as discussed in Section~\ref{sec:experiments}.
 % After an iteration reaches a terminal state in the above phases.
 % We back propagated the rewards on the path, updating the $Q$ function with each state-action pair in the trajectory with rewards in all future steps.
@@ -247,7 +247,7 @@ In practice, we observed that the second strategy often yields the best results.
 % When solving a reasoning problem in the task, we deploy an agent to search over the corresponding MDP.
 % In order to keep a track of the searching history, we build a reasoning tree representing the progress of searching.
 % Each node on the tree represents a state $S \in \mathcal S$ in the MDP, where the root represents the initial state $S_0$.
-% Every time the agent reaches a new node $S_t$ on the tree, 
+% Every time the agent reaches a new node $S_t$ on the tree,
 
 %\vspace{-5pt}
 \subsection{RAP-Aggregation} \label{sec:aggr}

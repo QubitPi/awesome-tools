@@ -139,6 +139,7 @@ are a few places we can look to get data:
     * [tcolorbox](https://www.ctan.org/pkg/tcolorbox)
     * [pgfornament](https://ctan.org/pkg/pgfornament)
 * [LaTeX showcase](https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends)
+* [Cool Text Highlighting in LaTeX](https://tex.stackexchange.com/a/6029)
 
 ## Software Architecture
 

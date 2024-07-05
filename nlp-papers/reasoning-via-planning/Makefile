@@ -21,5 +21,5 @@ clean:
 
 git-push:
 	git add emnlp2023.pdf
-	git commit -S -m "Update paper study notes - Attention is All You Need"
+	git commit -S -m "Update paper study notes - Reasoing via Planning"
 	git push origin master
