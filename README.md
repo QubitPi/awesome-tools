@@ -101,6 +101,7 @@ are a few places we can look to get data:
 ### Awesome Papers on Natural Language Processing (NLP)
 
 * [Attention is All you Need](./nlp-papers/attention-is-all-you-need/ms.pdf)
+* [Reasoning with Language Model is Planning with World Model](./nlp-papers/reasoning-via-planning/emnlp2023.pdf)
 
 ## Knowledge Graph
 
