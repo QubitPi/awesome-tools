@@ -20,6 +20,6 @@ clean:
 	rm -rf *.aux *.log *.out
 
 git-push:
-	git add .
+	git add emnlp2023.pdf
 	git commit -S -m "Update paper study notes - Attention is All You Need"
 	git push origin master
