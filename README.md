@@ -87,8 +87,16 @@ are a few places we can look to get data:
 * [Data Portals](https://dataportals.org/) - A Comprehensive List of [Open Data](https://opendefinition.org/) Portals from Around the World
 * [Nasdaq Data Link](https://data.nasdaq.com/institutional-investors)
 
-### Llama 2
+### Llama
 
+* [Downloading converted and quantized Llama models](https://huggingface.co/TheBloke)
+    * [LLaMA 2 7B base](https://huggingface.co/TheBloke/Llama-2-7B-GGUF)
+    * [LLaMA 2 13B base](https://huggingface.co/TheBloke/Llama-2-13B-GGUF)
+    * [LLaMA 2 70B base](https://huggingface.co/TheBloke/Llama-2-70B-GGUF)
+    * [LLaMA 2 7B chat](https://huggingface.co/TheBloke/Llama-2-7B-chat-GGUF)
+    * [LLaMA 2 13B chat](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF)
+    * [LLaMA 2 70B chat](https://huggingface.co/TheBloke/Llama-2-70B-chat-GGUF)
+* [Downloading Llama models](https://llama-2.ai/download/)
 * [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
 * [Ollama](https://ollama.ai/)
 * [llama-2-7b-hf](https://huggingface.co/daryl149/llama-2-7b-hf) - Converted model weights for Llama-2-7B in Huggingface format
