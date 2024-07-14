@@ -274,6 +274,7 @@ are a few places we can look to get data:
 * [Achaemenid Royal Inscriptions](https://www.livius.org/sources/content/achaemenid-royal-inscriptions/)
 * [Old Persian Fonts](https://www.wazu.jp/gallery/Fonts_OldPersianC.html)
 * [Old Persian Fonts on FontSpace](https://www.fontspace.com/category/old-persian)
+* [Old Persian Fonts, Esnaashari & Sarhadi's Old Persian Unicode Font](https://www.omniglot.com/fonts/oldpersian.zip) (Zip)
 
 ## Miscellaneous
 
