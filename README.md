@@ -272,6 +272,8 @@ are a few places we can look to get data:
 
 * [Old Persian Keyboard Online • Cuneiforms](https://www.lexilogos.com/keyboard/persian_old.htm)
 * [Achaemenid Royal Inscriptions](https://www.livius.org/sources/content/achaemenid-royal-inscriptions/)
+* [Old Persian Fonts](https://www.wazu.jp/gallery/Fonts_OldPersianC.html)
+* [Old Persian Fonts on FontSpace](https://www.fontspace.com/category/old-persian)
 
 ## Miscellaneous
 
