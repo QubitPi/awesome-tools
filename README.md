@@ -257,7 +257,6 @@ are a few places we can look to get data:
 * [Alphabet pronunciation](http://atticgreek.org/pronunc/pronunc_guide.html)
 * [alpheios.net](https://alpheios.net/) - A robust reading tool in browser
 * [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
-* [Ancient Greek Dictionary](https://www.lexilogos.com/english/greek_ancient_dictionary.htm)
 * Hansen and Quinn _"Greek an intensive course"_
     * [Hansen and Quinn Videos by PlayGreek](https://youtube.com/playlist?list=PLE6M-e2_CKhlxIqcxwSh4WfyuD7AA402X&si=WvEVaJnU6P4EAfAr)
     * [A full set of translations for the exercises in all twenty chapters](https://atticgreek.wordpress.com/tag/hansen-and-quinn-intensive-greek/)
