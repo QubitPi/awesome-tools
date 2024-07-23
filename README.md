@@ -235,10 +235,10 @@ are a few places we can look to get data:
 
 ### Corp VPN
 
-* [mieru](https://github.com/QubitPi/mieru)
-* [docker-openvpn](https://github.com/QubitPi/docker-openvpn)
 * [PiVPN](https://www.pivpn.io/)
+* [mieru](https://github.com/QubitPi/mieru)
 * [WireGuard Easy](https://github.com/QubitPi/wg-easy)
+* [docker-openvpn](https://github.com/QubitPi/docker-openvpn)
 
 ## Language
 
