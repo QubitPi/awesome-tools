@@ -238,6 +238,7 @@ are a few places we can look to get data:
 * [mieru](https://github.com/QubitPi/mieru)
 * [docker-openvpn](https://github.com/QubitPi/docker-openvpn)
 * [PiVPN](https://www.pivpn.io/)
+* [WireGuard Easy](https://github.com/QubitPi/wg-easy)
 
 ## Language
 
