@@ -228,6 +228,7 @@ are a few places we can look to get data:
 ## DevOps
 
 * [Go Playground](https://go.dev/play/)
+* [Docker Registry UI](https://github.com/QubitPi/docker-registry-ui)
 
 ### OpenStack
 
