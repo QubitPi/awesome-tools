@@ -58,6 +58,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Golang](https://go.dev/blog/go-brand)
 * [Docker](https://www.docker.com/company/newsroom/media-resources/)
 * [GraphQL](https://graphql.org/brand/)
+* [Jupyter](https://github.com/jupyter/design/tree/main)
 
 ## Machine Learning
 
