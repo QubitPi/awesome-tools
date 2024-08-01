@@ -40,7 +40,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [gnirehtet](https://github.com/Genymobile/gnirehtet) - Allows Android devices to use the internet connection of the computer they are plugged on
 * [原神角色 AI 语音合成器](https://v2.genshinvoice.top/) - 输入文本，生成可下载原神角色语音
 * [Wikitionary Data](https://softwarerecs.stackexchange.com/a/26776)
-* [iLovePDF](https://www.ilovepdf.com/) - The best PDF toolkit
+* [calibre](https://github.com/kovidgoyal/calibre) - 10,000 times better than Apple Books
 
 ## Philosophy
 
