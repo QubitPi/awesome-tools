@@ -47,10 +47,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Dictionary of Scholastic Philosophy](https://isidore.co/calibre#book_id=4797&panel=book_details) - A must-have for anyone studying philosophy with well written definitions and amazing charts/diagrams.
 
-### Communication
-
-* [Hemingway App](https://hemingwayapp.com/) - Make your written ideas easier to understand
-
 ## Branding
 
 * [HashiCorp](https://www.hashicorp.com/brand)
