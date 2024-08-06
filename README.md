@@ -41,6 +41,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [原神角色 AI 语音合成器](https://v2.genshinvoice.top/) - 输入文本，生成可下载原神角色语音
 * [Wikitionary Data](https://softwarerecs.stackexchange.com/a/26776)
 * [calibre](https://github.com/kovidgoyal/calibre) - 10,000 times better than Apple Books
+* [Internet Archive Developer Portal](https://archive.org/developers/index.html)
 
 ## Philosophy
 
