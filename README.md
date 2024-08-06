@@ -4,22 +4,6 @@ A curated list of awesome tools for dev, design, and life.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-- [Awesome Tools](#awesome-tools)
-
-  - [Life](#life)
-  - [Philosophy](#philosophy)
-  - [Branding](#branding)
-  - [Machine Learning](#machine-learning)
-  - [Knowledge Graph](#knowledge-graph)
-  - [Design](#design)
-  - [LaTeX](#latex)
-  - [Software Architecture](#software-architecture)
-  - [Frontend Dev](#frontend-dev)
-  - [Backend Dev](#backend-dev)
-  - [DevOps](#devops)
-  - [Language](#language)
-  - [Miscellaneous](#miscellaneous)
-
 <!-- TOC -->
 * [Awesome Tools ![Awesome](https://awesome.re/badge.svg)](#awesome-tools-)
   * [Life](#life)
