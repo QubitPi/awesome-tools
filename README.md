@@ -32,7 +32,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
       * [Database Management](#database-management)
   * [DevOps](#devops)
     * [OpenStack](#openstack)
-    * [Corp VPN](#corp-vpn)
   * [Language](#language)
     * [Korean](#korean)
     * [Ancient Greek](#ancient-greek)
@@ -255,13 +254,6 @@ are a few places we can look to get data:
 ### OpenStack
 
 - [Swift Docker](https://github.com/FNNDSC/docker-swift-onlyone)
-
-### Corp VPN
-
-- [PiVPN](https://www.pivpn.io/)
-- [mieru](https://github.com/QubitPi/mieru/blob/master/docs/client-install.md#configuring-proxies-on-mac-after-mieru-starts)
-- [WireGuard Easy](https://github.com/QubitPi/wg-easy)
-- [docker-openvpn](https://github.com/QubitPi/docker-openvpn)
 
 ## Language
 
