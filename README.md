@@ -271,6 +271,7 @@ are a few places we can look to get data:
 
 ### Ancient Greek
 
+- Ancient Greek keyboard mapping on Mac
 - [Resources on Learning Ancient Greek from LSJ](https://lsj.gr/wiki/LSJ:Learn_Greek)
 - [Ancient Greek Dictionary (Wikitionary)](https://en.wiktionary.org/wiki/%E1%BD%91%CF%80%CE%BF%CE%BB%CE%B1%CE%BC%CE%B2%CE%AC%CE%BD%CF%89)
 - [Ancient Greek Dictionary (LSJ)](https://lsj.gr/wiki/%E1%BD%91%CF%80%CE%BF%CE%BB%CE%B1%CE%BC%CE%B2%CE%AC%CE%BD%CF%89)
