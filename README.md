@@ -56,7 +56,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - [原神提瓦特文](https://www.bilibili.com/read/cv18272314/)字体文件
 - [Aerial](https://github.com/JohnCoates/Aerial) - a very nice Mac screensaver (Yes, it works with recent Mac version that SaveHollywood gave up; so please buy them a coffee)
 - [TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop)
-- [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Python3 script for downloading archive.org books in PDF format
+
 - Genymobile
     - [scrcpy](https://github.com/Genymobile/scrcpy) - Mirroring our Android screens onto our Mac screens and monitors
     - [sndcpy](https://github.com/rom1v/sndcpy) - scrpy companion: forwarding audio from an Android 10 device to the computer
@@ -64,7 +64,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [原神角色 AI 语音合成器](https://v2.genshinvoice.top/) - 输入文本，生成可下载原神角色语音
 - [Wikitionary Data](https://softwarerecs.stackexchange.com/a/26776)
 - [calibre](https://github.com/kovidgoyal/calibre) - 10,000 times better than Apple Books
+
+### Internet Archive
+
 - [Internet Archive Developer Portal](https://archive.org/developers/index.html)
+- [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Python3 script for downloading archive.org books in PDF format
 
 ## Philosophy
 
