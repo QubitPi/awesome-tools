@@ -67,9 +67,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [sndcpy](https://github.com/rom1v/sndcpy) - scrpy companion: forwarding audio from an Android 10 device to the computer
 - [gnirehtet](https://github.com/Genymobile/gnirehtet) - Allows Android devices to use the internet connection of the computer they are plugged on
 
-## Philosophy
+## Design
 
-- [Dictionary of Scholastic Philosophy](https://isidore.co/calibre#book_id=4797&panel=book_details) - A must-have for anyone studying philosophy with well written definitions and amazing charts/diagrams.
+- [Vectorian ornaments](https://www.vectorian.net/free-vintage-vectors.html)
+- SVG/LOGO
+    - [SVG Repo](https://www.svgrepo.com/)
+    - [Worldvectorlogo](https://worldvectorlogo.com/logo/google-lighthouse)
+    - [Brandfetch](https://brandfetch.com/cypress.io)
+- [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
+- [Implement an AWS Client VPN](https://youtube.com/playlist?list=PLTk5ZYSbd9Mg6i1ud6F9KIFQR7zppcQXc&si=pMMqPv-KZVaH3v3t)
 
 ## Branding
 
@@ -80,6 +86,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Docker](https://www.docker.com/company/newsroom/media-resources/)
 - [GraphQL](https://graphql.org/brand/)
 - [Jupyter](https://github.com/jupyter/design/tree/main)
+
+## Philosophy
+
+- [Dictionary of Scholastic Philosophy](https://isidore.co/calibre#book_id=4797&panel=book_details) - A must-have for anyone studying philosophy with well written definitions and amazing charts/diagrams.
 
 ## Machine Learning
 
@@ -141,16 +151,6 @@ are a few places we can look to get data:
 - [University of Oregon RouteViews Project](https://www.routeviews.org/routeviews/)
 - [OpenConcepts](https://github.com/QubitPi/OpenConcepts) - Entity [API](http://openconcepts.zjukg.cn/api_page)
 - [中文开放知识图谱](http://openkg.cn/)
-
-## Design
-
-- [Vectorian ornaments](https://www.vectorian.net/free-vintage-vectors.html)
-- SVG/LOGO
-    - [SVG Repo](https://www.svgrepo.com/)
-    - [Worldvectorlogo](https://worldvectorlogo.com/logo/google-lighthouse)
-    - [Brandfetch](https://brandfetch.com/cypress.io)
-- [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
-- [Implement an AWS Client VPN](https://youtube.com/playlist?list=PLTk5ZYSbd9Mg6i1ud6F9KIFQR7zppcQXc&si=pMMqPv-KZVaH3v3t)
 
 ### Figma
 
