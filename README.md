@@ -131,11 +131,6 @@ are a few places we can look to get data:
 - [Ollama](https://ollama.ai/)
 - [llama-2-7b-hf](https://huggingface.co/daryl149/llama-2-7b-hf) - Converted model weights for Llama-2-7B in Huggingface format
 
-### Natural Language to SQL
-
-- [mlsql](https://github.com/paulfitz/mlsql) - paper implementations; quick play but non-production quality
-- [Text To SQL](https://toolske.com/text2sql/)
-
 ### Awesome Papers on Natural Language Processing (NLP)
 
 - [Attention is All you Need](./nlp-papers/attention-is-all-you-need/ms.pdf)
