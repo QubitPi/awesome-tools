@@ -116,6 +116,9 @@ are a few places we can look to get data:
 - [AWS Data Exchange](https://docs.aws.amazon.com/data-exchange/)
 - [Data Portals](https://dataportals.org/) - A Comprehensive List of [Open Data](https://opendefinition.org/) Portals from Around the World
 - [Nasdaq Data Link](https://data.nasdaq.com/institutional-investors)
+- [University of Oregon RouteViews Project](https://www.routeviews.org/routeviews/)
+- [OpenConcepts](https://github.com/QubitPi/OpenConcepts) - Entity [API](http://openconcepts.zjukg.cn/api_page)
+- [中文开放知识图谱](http://openkg.cn/)
 
 ### Llama
 
@@ -140,12 +143,6 @@ are a few places we can look to get data:
 
 - [arrows.app](https://github.com/QubitPi/arrows.app)
 - [Neo4j Desktop Graph Apps Gallery](https://install.graphapp.io/) - Plugin apps for Neo4j Desktop that provide new capabilities, like Monitoring, Import, Analysis, Running Graph Algorithms, Visualization and much more
-
-### Open Data
-
-- [University of Oregon RouteViews Project](https://www.routeviews.org/routeviews/)
-- [OpenConcepts](https://github.com/QubitPi/OpenConcepts) - Entity [API](http://openconcepts.zjukg.cn/api_page)
-- [中文开放知识图谱](http://openkg.cn/)
 
 ### Figma
 
