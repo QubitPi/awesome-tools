@@ -87,10 +87,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [GraphQL](https://graphql.org/brand/)
 - [Jupyter](https://github.com/jupyter/design/tree/main)
 
-## Philosophy
-
-- [Dictionary of Scholastic Philosophy](https://isidore.co/calibre#book_id=4797&panel=book_details) - A must-have for anyone studying philosophy with well written definitions and amazing charts/diagrams.
-
 ## Machine Learning
 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto - is the introductory book on RL. It covers very basics and build up from there. Does not cover deep RL.
