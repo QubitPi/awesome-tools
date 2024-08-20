@@ -48,7 +48,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Life
 
 - [Handbrake](https://handbrake.fr/) - The best free open source video format converter.
-- [Project Gutenberg](https://www.gutenberg.org/) - Free books for read and data analytics
 - [bilibili-downloader](https://github.com/tyokyo320/bilibili-downloader) - Bilibili **4K** 视频下载
 - [Mousecape](https://github.com/alexzielenski/Mousecape) - <img src="https://github.com/QubitPi/QubitPi/blob/master/img/可莉.gif?raw=true" width="30px"> [可莉像素指针 Mac 版](https://www.bilibili.com/video/BV1Gv4y1M7o8) 运行工具
 - [HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - [原神提瓦特文](https://www.bilibili.com/read/cv18272314/)字体文件
@@ -94,6 +93,7 @@ When we are learning about Machine Learning it is best to actually experiment wi
 datasets. Fortunately, there are thousands of open datasets to choose from, ranging across all sorts of domains. Here
 are a few places we can look to get data:
 
+- [Project Gutenberg](https://www.gutenberg.org/) - Free books for read and data analytics
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
 - [Wikipedia's list of Machine Learning datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [WikiSQL](https://github.com/QubitPi/WikiSQL) - NL to SQL
