@@ -52,7 +52,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Mousecape](https://github.com/alexzielenski/Mousecape) - <img src="https://github.com/QubitPi/QubitPi/blob/master/img/可莉.gif?raw=true" width="30px"> [可莉像素指针 Mac 版](https://www.bilibili.com/video/BV1Gv4y1M7o8) 运行工具
 - [HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - [原神提瓦特文](https://www.bilibili.com/read/cv18272314/)字体文件
 - [Aerial](https://github.com/JohnCoates/Aerial) - a very nice Mac screensaver (Yes, it works with recent Mac version that SaveHollywood gave up; so please buy them a coffee)
-- [TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop)
 
 - Genymobile
     - [scrcpy](https://github.com/Genymobile/scrcpy) - Mirroring our Android screens onto our Mac screens and monitors
