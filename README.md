@@ -77,6 +77,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
 - [Implement an AWS Client VPN](https://youtube.com/playlist?list=PLTk5ZYSbd9Mg6i1ud6F9KIFQR7zppcQXc&si=pMMqPv-KZVaH3v3t)
 
+### Figma
+
+- [Select Similar](https://www.figma.com/community/plugin/792767780551514994/select-similar) - Completely screwed on a file after duplicating 300 objects? Instead of going one by one this plugin single handedly came in clutch.
+
 ## Branding
 
 - [HashiCorp](https://www.hashicorp.com/brand)
@@ -139,10 +143,6 @@ are a few places we can look to get data:
 
 - [arrows.app](https://github.com/QubitPi/arrows.app)
 - [Neo4j Desktop Graph Apps Gallery](https://install.graphapp.io/) - Plugin apps for Neo4j Desktop that provide new capabilities, like Monitoring, Import, Analysis, Running Graph Algorithms, Visualization and much more
-
-### Figma
-
-- [Select Similar](https://www.figma.com/community/plugin/792767780551514994/select-similar) - Completely screwed on a file after duplicating 300 objects? Instead of going one by one this plugin single handedly came in clutch.
 
 ## LaTeX
 
