@@ -161,7 +161,6 @@ are a few places we can look to get data:
 
 ## Frontend Dev
 
-- [uiverse.io](https://uiverse.io/) - Open-Source UI component templates
 - [Nodesource](https://deb.nodesource.com/) - Universal node & npm installer
 - [npm trends](https://npmtrends.com/)
 - [Defensive CSS](https://defensivecss.dev/)
