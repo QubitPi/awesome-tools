@@ -93,7 +93,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto - is the introductory book on RL. It covers very basics and build up from there. Does not cover deep RL.
 - [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
-- [MIT Deep Learning Book](https://www.deeplearningbook.org/)
 
 ### Open Training Data
 
