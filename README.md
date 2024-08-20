@@ -155,9 +155,6 @@ are a few places we can look to get data:
 - [MacTeX](https://www.tug.org/mactex/) - LaTeX comes with various installation packges, some are minimized versions. The comprehensive package is MacTeX
 - [CTAN](https://www.ctan.org/) - The "Maven Central" for LaTeX
 - [texlive package manager](https://tug.org/texlive/doc/tlmgr.html) - Installing a LaTeX package. e.g. `sudo tlmgr update --self && sudo tlmgr install pgfornament`
-- Popular CTAN Packages
-    - [tcolorbox](https://www.ctan.org/pkg/tcolorbox)
-    - [pgfornament](https://ctan.org/pkg/pgfornament)
 - [LaTeX showcase](https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends)
 - [Cool Text Highlighting in LaTeX](https://tex.stackexchange.com/a/6029)
 
