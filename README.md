@@ -86,10 +86,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 - [MIT Deep Learning Book](https://www.deeplearningbook.org/)
 
-### Python
-
-- [The Python Testing Tools Taxonomy](https://wiki.python.org/moin/PythonTestingToolsTaxonomy) - An extensive list of Python testing tools including functional testing frameworks and mock object libraries.
-
 ### Open Training Data
 
 When we are learning about Machine Learning it is best to actually experiment with real-world data, not just artificial
