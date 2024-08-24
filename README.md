@@ -32,7 +32,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [OpenStack](#openstack)
   * [Language](#language)
     * [Korean](#korean)
-    * [Ancient Greek](#ancient-greek)
     * [Latin](#latin)
       * [Hans Ørberg's Lingua Latina per se illustrata series](#hans-ørbergs-lingua-latina-per-se-illustrata-series)
     * [Old Persian](#old-persian)
@@ -53,6 +52,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [原神角色 AI 语音合成器](https://v2.genshinvoice.top/) - 输入文本，生成可下载原神角色语音
 - [Wikitionary Data](https://softwarerecs.stackexchange.com/a/26776)
 - [calibre](https://github.com/kovidgoyal/calibre) - 10,000 times better than Apple Books
+
+### opensubtitles.org
+
+- [opensubtitles.org](https://www.opensubtitles.org/en/search/subs)
+- [Generation War Ep. 1 German subtitles](https://www.opensubtitles.org/en/subtitles/6243166/generation-war-eine-andere-zeit-de) (Language resource)
+- [Generation War Ep. 2 German subtitles](https://www.opensubtitles.org/en/subtitles/6243167/generation-war-ein-anderer-krieg-de) (Language resource)
+- [Generation War Ep. 3 German subtitles](https://www.opensubtitles.org/en/subtitles/6243168/generation-war-ein-anderes-land-de) (Language resource)
 
 ### Internet Archive
 
