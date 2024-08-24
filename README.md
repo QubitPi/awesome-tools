@@ -244,16 +244,6 @@ are a few places we can look to get data:
 - [延世大学韩国语教材全套(1-6册)](https://pan.baidu.com/s/1jIiUnEu#list/path=%2F)
 - [李思皎韩语](https://www.youtube.com/playlist?list=PLQH1PBEcJfSYrO93ZQ0TSbuumFa1ifdPS)
 - [Papago](https://papago.naver.com/) - The best Korean dictionary. **Make sure to download their mobile APP**
-
-### Ancient Greek
-
-- [Ancient Greek keyboard mapping on Mac](https://github.com/QubitPi/awesome-tools/blob/master/ancient-greek-keyboard.png)
-- [Resources on Learning Ancient Greek from LSJ](https://lsj.gr/wiki/LSJ:Learn_Greek)
-- [Ancient Greek Dictionary (Wikitionary)](https://en.wiktionary.org/wiki/%E1%BD%91%CF%80%CE%BF%CE%BB%CE%B1%CE%BC%CE%B2%CE%AC%CE%BD%CF%89)
-- [Ancient Greek Dictionary (LSJ)](https://lsj.gr/wiki/%E1%BD%91%CF%80%CE%BF%CE%BB%CE%B1%CE%BC%CE%B2%CE%AC%CE%BD%CF%89)
-- [Alphabet pronunciation](http://atticgreek.org/pronunc/pronunc_guide.html)
-- [alpheios.net](https://alpheios.net/) - A robust reading tool in browser
-- [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
  
 ### Latin
 
