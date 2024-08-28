@@ -7,6 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 <!-- TOC -->
 * [Awesome Tools ![Awesome](https://awesome.re/badge.svg)](#awesome-tools-)
   * [Life](#life)
+    * [opensubtitles.org](#opensubtitlesorg)
     * [Internet Archive](#internet-archive)
     * [Genymobile](#genymobile)
   * [Design](#design)
@@ -31,9 +32,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   * [DevOps](#devops)
     * [OpenStack](#openstack)
   * [Language](#language)
-    * [Korean](#korean)
+    * [Ancient Greek](#ancient-greek)
     * [Latin](#latin)
       * [Hans Ørberg's Lingua Latina per se illustrata series](#hans-ørbergs-lingua-latina-per-se-illustrata-series)
+    * [German](#german)
+    * [Korean](#korean)
     * [Old Persian](#old-persian)
   * [Miscellaneous](#miscellaneous)
 * [Contributing](#contributing)
@@ -239,18 +242,18 @@ are a few places we can look to get data:
 
 ## Language
 
-- [Quizlet](https://quizlet.com/) - Vocabulary was made very fun by this awesome app!
 - [Lexilogos](https://www.lexilogos.com/english/index.htm) - A comprehensive set of resources for the study of the languages of the world
 - [Textkit Greek and Latin Forums](https://www.textkit.com/greek-latin-forum/index.php)
 - [Cambridge Ancient Greek and Latin language page](https://www.charlieslanguagepage.com/)
 - [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)
 
-### Korean
+### Ancient Greek
 
-- [延世大学韩国语教材全套(1-6册)](https://pan.baidu.com/s/1jIiUnEu#list/path=%2F)
-- [李思皎韩语](https://www.youtube.com/playlist?list=PLQH1PBEcJfSYrO93ZQ0TSbuumFa1ifdPS)
-- [Papago](https://papago.naver.com/) - The best Korean dictionary. **Make sure to download their mobile APP**
- 
+- [Resources on Learning Ancient Greek from LSJ](https://lsj.gr/wiki/LSJ:Learn_Greek)
+- [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
+- [Alphabet pronunciation](http://atticgreek.org/pronunc/pronunc_guide.html)
+- [Ancient Greek keyboard mapping on Mac](./ancient-greek-keyboard.png)
+
 ### Latin
 
 - [The Latin Library](https://www.thelatinlibrary.com/)
@@ -260,6 +263,16 @@ are a few places we can look to get data:
 
 - [Lingua Latina: Pars I: Familia Romana audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
 - [Lingua Latina: Colloquia Personarum audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8IRC5kmZtHE5kpCm-I0jUf&si=c7tVQos7W7z6vVSw)
+
+### German
+
+- [Fraktur Typeface Cheatsheet](https://upload.wikimedia.org/wikipedia/commons/6/60/Lesehilfe_Fraktur.jpg)
+
+### Korean
+
+- [延世大学韩国语教材全套(1-6册)](https://pan.baidu.com/s/1jIiUnEu#list/path=%2F)
+- [李思皎韩语](https://www.youtube.com/playlist?list=PLQH1PBEcJfSYrO93ZQ0TSbuumFa1ifdPS)
+- [Papago](https://papago.naver.com/) - The best Korean dictionary. **Make sure to download their mobile APP**
  
 ### Old Persian
 
