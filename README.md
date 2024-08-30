@@ -7,6 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 <!-- TOC -->
 * [Awesome Tools ![Awesome](https://awesome.re/badge.svg)](#awesome-tools-)
   * [Life](#life)
+    * [VLC](#vlc)
     * [opensubtitles.org](#opensubtitlesorg)
     * [Internet Archive](#internet-archive)
     * [Genymobile](#genymobile)
@@ -55,6 +56,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [原神角色 AI 语音合成器](https://v2.genshinvoice.top/) - 输入文本，生成可下载原神角色语音
 - [Wikitionary Data](https://softwarerecs.stackexchange.com/a/26776)
 - [calibre](https://github.com/kovidgoyal/calibre) - 10,000 times better than Apple Books
+
+### VLC
+
+- [VLC HowTo/Adjust subtitle font settings](https://wiki.videolan.org/VLC_HowTo/Adjust_subtitle_font_settings/)
 
 ### opensubtitles.org
 
