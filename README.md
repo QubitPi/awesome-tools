@@ -83,6 +83,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Brandfetch](https://brandfetch.com/cypress.io)
 - [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
 - [Implement an AWS Client VPN](https://youtube.com/playlist?list=PLTk5ZYSbd9Mg6i1ud6F9KIFQR7zppcQXc&si=pMMqPv-KZVaH3v3t)
+- [Ubuntu Design](https://design.ubuntu.com/)
 
 ### Figma
 
