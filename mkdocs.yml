@@ -9,6 +9,8 @@ theme:
   palette:
     primary: red
     accent: pink
+  font:
+    text: Ubuntu
 extra:
   social:
     - type: github
