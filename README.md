@@ -6,11 +6,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 <!-- TOC -->
 * [Awesome Tools ![Awesome](https://awesome.re/badge.svg)](#awesome-tools-)
-  * [Life](#life)
-    * [VLC](#vlc)
-    * [opensubtitles.org](#opensubtitlesorg)
-    * [Internet Archive](#internet-archive)
-    * [Genymobile](#genymobile)
   * [Design](#design)
     * [Figma](#figma)
   * [Branding](#branding)
@@ -32,52 +27,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
       * [Database Management](#database-management)
   * [DevOps](#devops)
     * [OpenStack](#openstack)
-  * [Language](#language)
-    * [Ancient Greek](#ancient-greek)
-    * [Latin](#latin)
-      * [Hans Ørberg's Lingua Latina per se illustrata series](#hans-ørbergs-lingua-latina-per-se-illustrata-series)
-    * [German](#german)
-    * [Korean](#korean)
-    * [Old Persian](#old-persian)
   * [Miscellaneous](#miscellaneous)
 * [Contributing](#contributing)
 * [License](#license)
 <!-- TOC -->
 
 ---
-
-## Life
-
-- [Handbrake](https://handbrake.fr/) - The best free open source video format converter.
-- [bilibili-downloader](https://github.com/tyokyo320/bilibili-downloader) - Bilibili **4K** 视频下载
-- [Mousecape](https://github.com/alexzielenski/Mousecape) - <img src="https://github.com/QubitPi/QubitPi/blob/master/img/可莉.gif?raw=true" width="30px"> [可莉像素指针 Mac 版](https://www.bilibili.com/video/BV1Gv4y1M7o8) 运行工具
-- [HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - [原神提瓦特文](https://www.bilibili.com/read/cv18272314/)字体文件
-- [Aerial](https://github.com/JohnCoates/Aerial) - a very nice Mac screensaver (Yes, it works with recent Mac version that SaveHollywood gave up; so please buy them a coffee)
-- [原神角色 AI 语音合成器](https://v2.genshinvoice.top/) - 输入文本，生成可下载原神角色语音
-- [Wikitionary Data](https://softwarerecs.stackexchange.com/a/26776)
-- [calibre](https://github.com/kovidgoyal/calibre) - 10,000 times better than Apple Books
-
-### VLC
-
-- [VLC HowTo/Adjust subtitle font settings](https://wiki.videolan.org/VLC_HowTo/Adjust_subtitle_font_settings/)
-
-### opensubtitles.org
-
-- [opensubtitles.org](https://www.opensubtitles.org/en/search/subs)
-- [Generation War Ep. 1 German subtitles](https://www.opensubtitles.org/en/subtitles/6243166/generation-war-eine-andere-zeit-de) (Language resource)
-- [Generation War Ep. 2 German subtitles](https://www.opensubtitles.org/en/subtitles/6243167/generation-war-ein-anderer-krieg-de) (Language resource)
-- [Generation War Ep. 3 German subtitles](https://www.opensubtitles.org/en/subtitles/6243168/generation-war-ein-anderes-land-de) (Language resource)
-
-### Internet Archive
-
-- [Internet Archive Developer Portal](https://archive.org/developers/index.html)
-- [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Python3 script for downloading archive.org books in PDF format
-
-### Genymobile
-
-- [scrcpy](https://github.com/Genymobile/scrcpy) - Mirroring our Android screens onto our Mac screens and monitors
-- [sndcpy](https://github.com/rom1v/sndcpy) - scrpy companion: forwarding audio from an Android 10 device to the computer
-- [gnirehtet](https://github.com/Genymobile/gnirehtet) - Allows Android devices to use the internet connection of the computer they are plugged on
 
 ## Design
 
@@ -245,49 +200,6 @@ are a few places we can look to get data:
 ### OpenStack
 
 - [Swift Docker](https://github.com/FNNDSC/docker-swift-onlyone)
-
-## Language
-
-- [Lexilogos](https://www.lexilogos.com/english/index.htm) - A comprehensive set of resources for the study of the languages of the world
-- [Textkit Greek and Latin Forums](https://www.textkit.com/greek-latin-forum/index.php)
-- [Cambridge Ancient Greek and Latin language page](https://www.charlieslanguagepage.com/)
-- [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)
-
-### Ancient Greek
-
-- [Resources on Learning Ancient Greek from LSJ](https://lsj.gr/wiki/LSJ:Learn_Greek)
-- [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
-- [Alphabet pronunciation](http://atticgreek.org/pronunc/pronunc_guide.html)
-- [Ancient Greek keyboard mapping on Mac](./ancient-greek-keyboard.png)
-
-### Latin
-
-- [The Latin Library](https://www.thelatinlibrary.com/)
-- [PHI corpus](https://latin.packhum.org/)
-
-#### [Hans Ørberg's Lingua Latina per se illustrata series](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series)
-
-- [Lingua Latina: Pars I: Familia Romana audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
-- [Lingua Latina: Colloquia Personarum audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8IRC5kmZtHE5kpCm-I0jUf&si=c7tVQos7W7z6vVSw)
-
-### German
-
-- [Fraktur Typeface Cheatsheet](https://upload.wikimedia.org/wikipedia/commons/6/60/Lesehilfe_Fraktur.jpg)
-
-### Korean
-
-- [延世大学韩国语教材全套(1-6册)](https://pan.baidu.com/s/1jIiUnEu#list/path=%2F)
-- [李思皎韩语](https://www.youtube.com/playlist?list=PLQH1PBEcJfSYrO93ZQ0TSbuumFa1ifdPS)
-- [Papago](https://papago.naver.com/) - The best Korean dictionary. **Make sure to download their mobile APP**
- 
-### Old Persian
-
-- [TITUS Old Persian Corpus](https://titus.uni-frankfurt.de/texte/etcs/iran/airan/apers/apers.htm)
-- [Old Persian Keyboard Online • Cuneiforms](https://www.lexilogos.com/keyboard/persian_old.htm)
-- [Achaemenid Royal Inscriptions](https://www.livius.org/sources/content/achaemenid-royal-inscriptions/)
-- [Old Persian Fonts](https://www.wazu.jp/gallery/Fonts_OldPersianC.html)
-- [Old Persian Fonts on FontSpace](https://www.fontspace.com/category/old-persian)
-- [Old Persian Fonts, Esnaashari & Sarhadi's Old Persian Unicode Font](https://www.omniglot.com/fonts/oldpersian.zip) (Zip)
 
 ## Miscellaneous
 
