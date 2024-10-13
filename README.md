@@ -6,7 +6,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 <!-- TOC -->
 * [Awesome Tools ![Awesome](https://awesome.re/badge.svg)](#awesome-tools-)
-  * [Design](#design)
+  * [Language](#language)
+    * [German](#german)
+      * [Grammar Checker](#grammar-checker)
+    * [Korean](#korean-)
+    * [Ancient Greek](#ancient-greek)
+    * [Latin](#latin)
+      * [Hans Ørberg's Lingua Latina per se illustrata series](#hans-ørbergs-lingua-latina-per-se-illustrata-series)
+    * [Old Persian](#old-persian)
+    * [Design](#design)
     * [Figma](#figma)
   * [Branding](#branding)
   * [Machine Learning](#machine-learning)
@@ -34,7 +42,47 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 
-## Design
+## Language
+
+### German
+
+- [Fraktur Typeface Cheatsheet](https://upload.wikimedia.org/wikipedia/commons/6/60/Lesehilfe_Fraktur.jpg)
+
+#### Grammar Checker
+
+- [Duden Mentor](https://mentor.duden.de/)
+- [rechtschreibpruefung24.de](https://rechtschreibpruefung24.de/)
+- [Sapling](https://sapling.ai/lang/german)
+- [QuillBot](https://quillbot.com/de/rechtschreibprufung)
+- [LanguageTool](https://languagetool.org/spellchecking-german)
+
+### Korean 
+
+- [延世大学韩国语教材全套(1-6册)](https://pan.baidu.com/s/1jIiUnEu#list/path=%2F)
+- [李思皎韩语](https://www.youtube.com/playlist?list=PLQH1PBEcJfSYrO93ZQ0TSbuumFa1ifdPS)
+- [Papago](https://papago.naver.com/) - The best Korean dictionary. **Make sure to download their mobile APP**
+
+### Ancient Greek
+
+- [Resources on Learning Ancient Greek from LSJ](https://lsj.gr/wiki/LSJ:Learn_Greek)
+- [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
+
+### Latin
+
+#### [Hans Ørberg's Lingua Latina per se illustrata series](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series)
+
+- [Lingua Latina: Pars I: Familia Romana audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
+- [Lingua Latina: Colloquia Personarum audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8IRC5kmZtHE5kpCm-I0jUf&si=c7tVQos7W7z6vVSw)
+
+### Old Persian
+
+- [TITUS Old Persian Corpus](https://titus.uni-frankfurt.de/texte/etcs/iran/airan/apers/apers.htm)
+- [Achaemenid Royal Inscriptions](https://www.livius.org/sources/content/achaemenid-royal-inscriptions/)
+- [Old Persian Fonts](https://www.wazu.jp/gallery/Fonts_OldPersianC.html)
+- [Old Persian Fonts on FontSpace](https://www.fontspace.com/category/old-persian)
+- [Old Persian Fonts, Esnaashari & Sarhadi's Old Persian Unicode Font](https://www.omniglot.com/fonts/oldpersian.zip) (Zip)
+
+### Design
 
 - [Vectorian ornaments](https://www.vectorian.net/free-vintage-vectors.html)
 - SVG/LOGO
@@ -42,7 +90,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Worldvectorlogo](https://worldvectorlogo.com/logo/google-lighthouse)
     - [Brandfetch](https://brandfetch.com/cypress.io)
 - [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
-- [Implement an AWS Client VPN](https://youtube.com/playlist?list=PLTk5ZYSbd9Mg6i1ud6F9KIFQR7zppcQXc&si=pMMqPv-KZVaH3v3t)
 - [Ubuntu Design](https://design.ubuntu.com/)
 
 ### Figma
