@@ -92,6 +92,21 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
 - [Ubuntu Design](https://design.ubuntu.com/)
 
+### Tiger I Tanks 3D Printing
+
+- [Cults](https://cults3d.com/en/design-collections/QubitPi/tiger-i-tank)
+- [Thingiverse](https://www.thingiverse.com/qubitpi/collections/42668373/things)
+
+#### GrabCAD
+
+- [Tiger Tank](https://grabcad.com/library/tiger-tank-5)
+- [Panzer VI Tiger E solidworks step](https://grabcad.com/library/panzer-vi-tiger-e-solidworks-step-1)
+- [Panzer VI Tiger 1:35](https://grabcad.com/library/panzer-vi-tiger-1-35-1)
+- [Tank Tiger 1 (Toy)](https://grabcad.com/library/tank-tiger-1-toy-1)
+- [Tiger 1](https://grabcad.com/library/tiger-1-2)
+- [Panzerkampfwagen Tiger](https://grabcad.com/library/panzerkampfwagen-tiger-1)
+
+
 ### Figma
 
 - [Select Similar](https://www.figma.com/community/plugin/792767780551514994/select-similar) - Completely screwed on a file after duplicating 300 objects? Instead of going one by one this plugin single handedly came in clutch.
