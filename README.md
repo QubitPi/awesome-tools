@@ -44,6 +44,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Language
 
+- [Duolingo](https://www.duolingo.com/)
+
 ### German
 
 - [Fraktur Typeface Cheatsheet](https://upload.wikimedia.org/wikipedia/commons/6/60/Lesehilfe_Fraktur.jpg)
