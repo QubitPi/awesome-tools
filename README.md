@@ -99,6 +99,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Cults](https://cults3d.com/en/design-collections/QubitPi/tiger-i-tank)
 - [Thingiverse](https://www.thingiverse.com/qubitpi/collections/42668373/things)
 
+### Lego Pieces 3D Printing
+
+- [GrabCAD](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=lego)
+
 #### GrabCAD
 
 - [Tiger Tank](https://grabcad.com/library/tiger-tank-5)
