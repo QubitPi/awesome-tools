@@ -68,6 +68,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Resources on Learning Ancient Greek from LSJ](https://lsj.gr/wiki/LSJ:Learn_Greek)
 - [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
+- [The Textkit Book Collection](https://www.textkit.com/greek-latin-forum/viewtopic.php?t=70592)
 
 ### Latin
 
