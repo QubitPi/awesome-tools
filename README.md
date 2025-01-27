@@ -6,6 +6,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 <!-- TOC -->
 * [Awesome Tools ![Awesome](https://awesome.re/badge.svg)](#awesome-tools-)
+  * [Life](#life)
+    * [VLC](#vlc)
+    * [Genymobile](#genymobile)
   * [Language](#language)
     * [German](#german)
       * [Grammar Checker](#grammar-checker)
@@ -15,6 +18,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
       * [Hans Ørberg's Lingua Latina per se illustrata series](#hans-ørbergs-lingua-latina-per-se-illustrata-series)
     * [Old Persian](#old-persian)
     * [Design](#design)
+    * [Tiger I Tanks 3D Printing](#tiger-i-tanks-3d-printing)
+    * [Lego Pieces 3D Printing](#lego-pieces-3d-printing)
+      * [GrabCAD](#grabcad)
     * [Figma](#figma)
   * [Branding](#branding)
   * [Machine Learning](#machine-learning)
@@ -42,9 +48,28 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 
-## Language
+## Life
 
-- [Duolingo](https://www.duolingo.com/)
+- [Handbrake](https://handbrake.fr/) - The best free open source video format converter.
+- [cobalt.tools](https://cobalt.tools/)
+- [bilibili-downloader](https://github.com/tyokyo320/bilibili-downloader) - Bilibili **4K** 视频下载
+- [Mousecape](https://github.com/alexzielenski/Mousecape) - <img src="https://github.com/QubitPi/QubitPi/blob/master/img/可莉.gif?raw=true" width="30px"> [可莉像素指针 Mac 版](https://www.bilibili.com/video/BV1Gv4y1M7o8) 运行工具
+- [HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - [原神提瓦特文](https://www.bilibili.com/read/cv18272314/)字体文件
+- [Aerial](https://github.com/JohnCoates/Aerial) - a very nice Mac screensaver (Yes, it works with recent Mac version that SaveHollywood gave up; so please buy them a coffee)
+- [原神角色 AI 语音合成器](https://v2.genshinvoice.top/) - 输入文本，生成可下载原神角色语音
+- [Wikitionary Data](https://softwarerecs.stackexchange.com/a/26776)
+
+### VLC
+
+- [VLC HowTo/Adjust subtitle font settings](https://wiki.videolan.org/VLC_HowTo/Adjust_subtitle_font_settings/)
+
+### Genymobile
+
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Mirroring our Android screens onto our Mac screens and monitors
+- [sndcpy](https://github.com/rom1v/sndcpy) - scrpy companion: forwarding audio from an Android 10 device to the computer
+- [gnirehtet](https://github.com/Genymobile/gnirehtet) - Allows Android devices to use the internet connection of the computer they are plugged on
+
+## Language
 
 ### German
 
