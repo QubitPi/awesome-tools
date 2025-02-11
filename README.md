@@ -201,6 +201,7 @@ are a few places we can look to get data:
 
 - [arrows.app](https://github.com/QubitPi/arrows.app)
 - [Neo4j Desktop Graph Apps Gallery](https://install.graphapp.io/) - Plugin apps for Neo4j Desktop that provide new capabilities, like Monitoring, Import, Analysis, Running Graph Algorithms, Visualization and much more
+- [Graph Data](https://github.com/arangodb/example-datasets)
 
 ## LaTeX
 
