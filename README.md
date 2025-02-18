@@ -53,7 +53,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Handbrake](https://handbrake.fr/) - The best free open source video format converter.
 - [cobalt.tools](https://cobalt.tools/)
 - [bilibili-downloader](https://github.com/tyokyo320/bilibili-downloader) - Bilibili **4K** 视频下载
-- [Mousecape](https://github.com/alexzielenski/Mousecape) - <img src="https://github.com/QubitPi/QubitPi/blob/master/img/可莉.gif?raw=true" width="30px"> [可莉像素指针 Mac 版](https://www.bilibili.com/video/BV1Gv4y1M7o8) 运行工具
+- [Mousecape](https://github.com/alexzielenski/Mousecape) - <img src="https://github.com/QubitPi/awesome-tools/blob/master/可莉.gif?raw=true" width="30px"> [可莉像素指针 Mac 版](https://www.bilibili.com/video/BV1Gv4y1M7o8) 运行工具
 - [HoYo-Glyphs](https://github.com/SpeedyOrc-C/HoYo-Glyphs) - [原神提瓦特文](https://www.bilibili.com/read/cv18272314/)字体文件
 - [Aerial](https://github.com/JohnCoates/Aerial) - a very nice Mac screensaver (Yes, it works with recent Mac version that SaveHollywood gave up; so please buy them a coffee)
 - [原神角色 AI 语音合成器](https://v2.genshinvoice.top/) - 输入文本，生成可下载原神角色语音
