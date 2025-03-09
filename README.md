@@ -318,6 +318,8 @@ are a few places we can look to get data:
 - [Online Self-Signed SSL Certificate Generator Tool for Website](https://regery.com/en/security/ssl-tools/self-signed-certificate-generator)
 - [martinfowler.com](https://martinfowler.com/)
 - [Tree](https://tree.nathanfriend.io/): An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.
+- [Circular image cropper online](https://crop-circle.imageonline.co/)
+- [Image border fading online](https://www5.lunapic.com/editor/)
 
 # Contributing
 
