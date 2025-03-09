@@ -314,6 +314,7 @@ are a few places we can look to get data:
 - [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/)
 - [Greasy Fork](https://greasyfork.org/en) - A nice browser per-website customization such as [de-流氓 script](https://greasyfork.org/en/scripts/393995-bilibili-干净链接/code) by Bilibili
 - [Random String Generator](https://www.random.org/strings/)
+- [SSL Checker](https://www.sslshopper.com/ssl-checker.html)
 - [Online Self-Signed SSL Certificate Generator Tool for Website](https://regery.com/en/security/ssl-tools/self-signed-certificate-generator)
 - [martinfowler.com](https://martinfowler.com/)
 - [Tree](https://tree.nathanfriend.io/): An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.
