@@ -25,13 +25,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Ancient Greek Language resources on Reddit](https://www.reddit.com/r/AncientGreek/wiki/resources/)
 - [The Textkit Book Collection](https://www.textkit.com/greek-latin-forum/viewtopic.php?t=70592)
 
-### Latin
-
-#### [Hans Ørberg's Lingua Latina per se illustrata series](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series)
-
-- [Lingua Latina: Pars I: Familia Romana audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
-- [Lingua Latina: Colloquia Personarum audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8IRC5kmZtHE5kpCm-I0jUf&si=c7tVQos7W7z6vVSw)
-
 ### Bulgarian
 
 - [(Wikipedia) https://en.wikipedia.org/wiki/Bulgarian_language](https://en.wikipedia.org/wiki/Bulgarian_language)
