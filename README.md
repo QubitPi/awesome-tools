@@ -18,11 +18,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Sapling](https://sapling.ai/lang/german)
 - [QuillBot](https://quillbot.com/de/rechtschreibprufung)
 - [LanguageTool](https://languagetool.org/spellchecking-german)
-   
-### Korean 
-
-- [李思皎韩语](https://www.youtube.com/playlist?list=PLQH1PBEcJfSYrO93ZQ0TSbuumFa1ifdPS)
-- [Papago](https://papago.naver.com/) - The best Korean dictionary. __Make sure to download their mobile APP__
 
 ### Ancient Greek
 
@@ -36,6 +31,16 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Lingua Latina: Pars I: Familia Romana audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8n25QG3Iwz9EYw53vP2JqP&si=SzGFGfJ5VkYoThVa)
 - [Lingua Latina: Colloquia Personarum audios](https://youtube.com/playlist?list=PL-CLnI8tPXu8IRC5kmZtHE5kpCm-I0jUf&si=c7tVQos7W7z6vVSw)
+
+### Bulgarian
+
+- [(Wikipedia) https://en.wikipedia.org/wiki/Bulgarian_language](https://en.wikipedia.org/wiki/Bulgarian_language)
+- [(Wikipedia) Bulgarian alphabet](https://en.wikipedia.org/wiki/Bulgarian_alphabet)
+
+### Korean 
+
+- [李思皎韩语](https://www.youtube.com/playlist?list=PLQH1PBEcJfSYrO93ZQ0TSbuumFa1ifdPS)
+- [Papago](https://papago.naver.com/) - The best Korean dictionary. __Make sure to download their mobile APP__
 
 ### Old Persian
 
