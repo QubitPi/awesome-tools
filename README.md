@@ -7,18 +7,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ---
 ## Language
 
-### German
-
-- [Fraktur Typeface Cheatsheet](https://upload.wikimedia.org/wikipedia/commons/6/60/Lesehilfe_Fraktur.jpg)
-
-#### Grammar Checker
-
-- [Duden Mentor](https://mentor.duden.de/)
-- [rechtschreibpruefung24.de](https://rechtschreibpruefung24.de/)
-- [Sapling](https://sapling.ai/lang/german)
-- [QuillBot](https://quillbot.com/de/rechtschreibprufung)
-- [LanguageTool](https://languagetool.org/spellchecking-german)
-
 ### Ancient Greek
 
 - [Resources on Learning Ancient Greek from LSJ](https://lsj.gr/wiki/LSJ:Learn_Greek)
@@ -29,6 +17,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [(Wikipedia) https://en.wikipedia.org/wiki/Bulgarian_language](https://en.wikipedia.org/wiki/Bulgarian_language)
 - [(Wikipedia) Bulgarian alphabet](https://en.wikipedia.org/wiki/Bulgarian_alphabet)
+- [Bulgarian Grammar](https://archive.org/details/shortgrammarofbu00morfrich/mode/2up)
+- [Bulgarian Alphabet](https://www.omniglot.com/writing/bulgarian.htm)
+
+  - [Video](https://www.youtube.com/watch?v=87qsKNoyx5A)
+
+- [Free Core 2000 Words eBook](https://www.bulgarianpod101.com/Bulgarian-core-words)
 
 ### Korean 
 
@@ -42,22 +36,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Old Persian Fonts](https://www.wazu.jp/gallery/Fonts_OldPersianC.html)
 - [Old Persian Fonts on FontSpace](https://www.fontspace.com/category/old-persian)
 - [Old Persian Fonts, Esnaashari & Sarhadi's Old Persian Unicode Font](https://www.omniglot.com/fonts/oldpersian.zip) (Zip)
-
-### Design
-
-- [Vectorian ornaments](https://www.vectorian.net/free-vintage-vectors.html)
-- [API Stylebook Design Guidelines](https://apistylebook.com/design/guidelines/)
-- [Ubuntu Design](https://design.ubuntu.com/)
-
-## Branding
-
-- [HashiCorp](https://www.hashicorp.com/brand)
-- [Elastic Brand Guide](https://brand.elastic.co/)
-- [TypeScript](https://qubitpi.github.io/TypeScript-Website/branding/)
-- [Golang](https://go.dev/blog/go-brand)
-- [Docker](https://www.docker.com/company/newsroom/media-resources/)
-- [GraphQL](https://graphql.org/brand/)
-- [Jupyter](https://github.com/jupyter/design/tree/main)
 
 ## Machine Learning
 
@@ -96,6 +74,16 @@ are a few places we can look to get data:
 
 - [Neo4j Desktop Graph Apps Gallery](https://install.graphapp.io/) - Plugin apps for Neo4j Desktop that provide new capabilities, like Monitoring, Import, Analysis, Running Graph Algorithms, Visualization and much more
 - [Graph Data](https://github.com/arangodb/example-datasets)
+
+## Brand Design
+
+- [HashiCorp](https://www.hashicorp.com/brand)
+- [Elastic Brand Guide](https://brand.elastic.co/)
+- [TypeScript](https://qubitpi.github.io/TypeScript-Website/branding/)
+- [Golang](https://go.dev/blog/go-brand)
+- [Docker](https://www.docker.com/company/newsroom/media-resources/)
+- [GraphQL](https://graphql.org/brand/)
+- [Jupyter](https://github.com/jupyter/design/tree/main)
 
 # Contributing
 
