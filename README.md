@@ -5,6 +5,9 @@ A curated list of awesome tools for dev, design, and life.
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
+
+- [CAJ Viewer](https://cajviewer.oversea.cnki.net/)
+
 ## Language
 
 ### Bulgarian
